@@ -31,7 +31,7 @@ Python (pandas, numpy, faker) · SQL (PostgreSQL syntax) · Google Sheets (QUERY
 
 ## How to run
 ```bash
-git clone https://github.com/<your-username>/ev-omnichannel-analytics.git
+git clone https://github.com/<shreyashanalytics>/ev-omnichannel-analytics.git
 cd ev-omnichannel-analytics
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
