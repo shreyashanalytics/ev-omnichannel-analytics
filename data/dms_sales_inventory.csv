@@ -1,0 +1,287 @@
+booking_id,crm_lead_id,booking_date,customer_name,model_variant,vin_assigned,retail_invoice_date,delivery_date,dms_status,financing_partner,final_onroad_price_inr
+BK-50001,LD-10003,2026-01-19,Fiyaz Sangha,Simple One 4.5kWh,True,2026-02-14,2026-02-16,Delivered,Self-Funded,174400
+BK-50002,LD-99286,2026-02-07,Libni Doshi,Simple Dot One,True,2026-03-18,2026-03-30,Delivered,HDFC,144700
+BK-50003,LD-10008,2026-02-08,Rajata Sunder,Simple One 4.5kWh,True,2026-02-27,2026-03-04,Delivered,HDFC,174000
+BK-50004,,2026-02-14,Widisha Pillai,Simple One 3.7kWh,True,,,Cancelled,Self-Funded,160300
+BK-50005,LD-10014,2026-02-17,Ijaya Rege,Simple One 4.5kWh,True,2026-03-22,2026-03-30,Delivered,Self-Funded,170200
+BK-50006,,2026-02-22,Zayyan Naik,Simple One 3.7kWh,True,2026-03-27,2026-04-07,Delivered,Self-Funded,162100
+BK-50007,LD-10015,2026-02-24,Ekansh Balay,Simple One 3.7kWh,True,2026-04-03,2026-04-10,Delivered,IDFC,160200
+BK-50008,LD-10012,2026-02-25,Lavanya Barad,Simple One 4.5kWh,True,2026-04-15,2026-04-22,Delivered,Self-Funded,172600
+BK-50009,LD-10019,2026-03-01,Simon Tata,Simple One 4.5kWh,True,2026-03-28,2026-03-30,Delivered,Greenko Finance,174000
+BK-50010,LD-10018,2026-03-05,Anvi Nair,Simple One 3.7kWh,True,2026-03-17,2026-03-24,Delivered,IDFC,160200
+BK-50011,LD-10020,2026-03-05,Advaith Varughese,Simple One 3.7kWh,True,2026-04-12,2026-04-21,Delivered,Self-Funded,158200
+BK-50012,LD-10023,2026-03-07,Aradhana Verma,Simple One 4.5kWh,True,2026-03-27,2026-03-30,Delivered,Greenko Finance,171100
+BK-50013,LD-10034,2026-03-11,Amara Dutta,Simple One 4.5kWh,True,2026-04-09,2026-04-19,Delivered,IDFC,174500
+BK-50014,LD-10036,2026-03-12,Omaja Grover,Simple One 4.5kWh,True,2026-04-09,2026-04-11,Delivered,HDFC,178200
+BK-50015,LD-10030,2026-03-16,Ryan Bahri,Simple One 4.5kWh,True,2026-04-21,2026-04-27,Delivered,Self-Funded,172200
+BK-50016,LD-10027,2026-03-16,William Lanka,Simple Dot One,True,2026-04-13,2026-04-15,Delivered,IDFC,149400
+BK-50017,LD-10026,2026-03-17,Oeshi Hayer,Simple One 4.5kWh,True,2026-04-17,2026-04-23,Delivered,Self-Funded,171300
+BK-50018,LD-10033,2026-03-18,Hitesh Sant,Simple One 4.5kWh,True,2026-04-13,2026-04-15,Delivered,Self-Funded,168200
+BK-50019,,2026-03-19,Champak Narula,Simple One 3.7kWh,True,2026-04-13,2026-04-20,Delivered,Self-Funded,160300
+BK-50020,LD-10035,2026-03-21,Daksh Memon,Simple One 4.5kWh,True,2026-04-12,2026-04-23,Delivered,Self-Funded,167900
+BK-50021,LD-10029,2026-03-24,Victor Kannan,Simple One 4.5kWh,True,2026-04-19,2026-04-22,Delivered,Greenko Finance,169200
+BK-50022,,2026-03-25,Urvashi Kulkarni,Simple One 4.5kWh,True,2026-04-12,2026-04-19,Delivered,Self-Funded,164400
+BK-50023,LD-10042,2026-03-26,Pranit Kala,Simple Dot One,True,2026-04-10,2026-04-16,Delivered,HDFC,139000
+BK-50024,LD-10047,2026-03-30,Ekapad Walia,Simple One 4.5kWh,True,2026-04-15,2026-04-22,Delivered,HDFC,170900
+BK-50025,LD-10050,2026-03-30,Triya Kumar,Simple Dot One,True,2026-04-15,2026-04-26,Delivered,HDFC,138300
+BK-50026,LD-10051,2026-03-31,Kamala Biswas,Simple One 3.7kWh,True,2026-05-11,2026-05-13,Delivered,HDFC,159600
+BK-50027,LD-10052,2026-03-31,Gaurang Sarkar,Simple Dot One,False,,,Cancelled,Self-Funded,148200
+BK-50028,LD-10048,2026-04-01,Anirudh Kunda,Simple One 3.7kWh,True,2026-04-17,2026-04-20,Delivered,HDFC,162000
+BK-50029,LD-10049,2026-04-01,Suhani Chakrabarti,Simple One 4.5kWh,True,2026-05-09,2026-05-12,Delivered,HDFC,170600
+BK-50030,,2026-04-02,Falak Merchant,Simple Dot One,True,2026-05-03,2026-05-09,Delivered,Greenko Finance,149200
+BK-50031,LD-10057,2026-04-04,Manthan Modi,Simple One 3.7kWh,True,2026-04-16,2026-04-23,Delivered,Self-Funded,168200
+BK-50032,LD-10046,2026-04-05,Simon Pant,Simple One 4.5kWh,True,2026-05-17,2026-05-22,Delivered,Self-Funded,170200
+BK-50033,LD-10064,2026-04-08,Viraj Tiwari,Simple Dot One,True,2026-04-26,2026-04-30,Delivered,Self-Funded,152100
+BK-50034,LD-10065,2026-04-10,Inaya Mody,Simple One 3.7kWh,True,2026-05-05,2026-05-16,Delivered,HDFC,157800
+BK-50035,LD-10063,2026-04-11,Girik Khalsa,Simple One 3.7kWh,True,2026-05-09,2026-05-17,Delivered,HDFC,161800
+BK-50036,LD-10058,2026-04-11,Pushti Mody,Simple Dot One,True,2026-04-28,2026-05-02,Delivered,Self-Funded,152700
+BK-50037,,2026-04-12,Rayaan Mangal,Simple Dot One,True,2026-05-10,2026-05-16,Delivered,Self-Funded,147200
+BK-50038,LD-10074,2026-04-13,Ojasvi Gill,Simple One 3.7kWh,True,2026-05-22,2026-05-27,Delivered,Greenko Finance,151800
+BK-50039,LD-10061,2026-04-15,Shravya Palla,Simple One 3.7kWh,True,2026-05-14,2026-05-23,Delivered,IDFC,164300
+BK-50040,LD-10068,2026-04-15,Madhavi Lanka,Simple One 3.7kWh,True,2026-05-16,2026-05-24,Delivered,IDFC,157100
+BK-50041,LD-10075,2026-04-17,Hritik Kaur,Simple One 4.5kWh,True,2026-06-09,2026-06-15,Delivered,HDFC,169500
+BK-50042,LD-10076,2026-04-17,Fariq Kaul,Simple One 3.7kWh,True,2026-06-03,2026-06-11,Delivered,Self-Funded,152500
+BK-50043,LD-10080,2026-04-21,Girik Keer,Simple One 3.7kWh,True,2026-05-26,2026-05-31,Delivered,Self-Funded,156400
+BK-50044,LD-10069,2026-04-21,Mohammed Subramaniam,Simple One 3.7kWh,True,2026-05-20,2026-06-01,Delivered,Self-Funded,162000
+BK-50045,LD-10077,2026-04-21,Bahadurjit Patla,Simple Dot One,True,2026-05-15,2026-05-24,Delivered,HDFC,147400
+BK-50046,LD-10094,2026-04-24,Caleb Iyengar,Simple One 4.5kWh,True,,,Cancelled,Greenko Finance,165200
+BK-50047,,2026-04-25,Abeer Golla,Simple Dot One,True,2026-05-03,2026-05-05,Delivered,Greenko Finance,146700
+BK-50048,LD-10084,2026-04-26,Vansha Thakkar,Simple One 4.5kWh,True,2026-05-24,2026-06-03,Delivered,Self-Funded,175700
+BK-50049,LD-10087,2026-04-29,Odika Nori,Simple Dot One,False,,,Cancelled,HDFC,147600
+BK-50050,LD-10100,2026-04-29,Diya Mukherjee,Simple One 3.7kWh,True,2026-05-21,2026-05-24,Delivered,HDFC,161000
+BK-50051,LD-10083,2026-04-30,Brinda Date,Simple One 3.7kWh,True,,,Cancelled,HDFC,161800
+BK-50052,LD-10097,2026-05-02,Madhavi Singhal,Simple One 4.5kWh,True,2026-06-18,2026-06-20,Delivered,Greenko Finance,174500
+BK-50053,LD-10107,2026-05-02,Faris Devi,Simple One 4.5kWh,True,2026-05-17,2026-05-24,Delivered,IDFC,175300
+BK-50054,LD-10101,2026-05-03,Hamsini Contractor,Simple Dot One,True,2026-05-29,2026-06-03,Delivered,Greenko Finance,147000
+BK-50055,LD-10098,2026-05-04,Prisha Andra,Simple One 4.5kWh,True,2026-06-15,2026-06-18,Delivered,HDFC,172000
+BK-50056,LD-10104,2026-05-04,Lajita Chatterjee,Simple One 4.5kWh,True,2026-05-28,2026-05-31,Delivered,HDFC,171600
+BK-50057,,2026-05-07,Jeet Pillai,Simple One 4.5kWh,True,2026-06-02,2026-06-10,Delivered,IDFC,176100
+BK-50058,LD-10103,2026-05-08,Nihal Shere,Simple One 4.5kWh,True,2026-06-03,2026-06-05,Delivered,IDFC,168500
+BK-50059,,2026-05-09,Fitan Samra,Simple One 4.5kWh,True,2026-06-10,2026-06-13,Delivered,HDFC,174900
+BK-50060,LD-10112,2026-05-12,Krish Lalla,Simple One 4.5kWh,True,2026-06-16,2026-06-20,Delivered,Self-Funded,168400
+BK-50061,LD-10115,2026-05-12,Zinal Yohannan,Simple One 3.7kWh,True,2026-06-06,2026-06-18,Delivered,HDFC,153400
+BK-50062,LD-10086,2026-05-12,Neha Magar,Simple Dot One,True,2026-06-06,2026-06-08,Delivered,HDFC,146200
+BK-50063,LD-10126,2026-05-13,Nirja Patla,Simple One 3.7kWh,True,2026-05-20,2026-05-29,Delivered,HDFC,159600
+BK-50064,LD-10118,2026-05-15,Ekani Cheema,Simple One 4.5kWh,True,2026-06-25,2026-07-04,Delivered,Greenko Finance,174100
+BK-50065,LD-10127,2026-05-17,Hritik Bal,Simple One 3.7kWh,True,2026-06-03,2026-06-11,Delivered,IDFC,158700
+BK-50066,LD-10109,2026-05-17,Noah Sibal,Simple One 3.7kWh,True,2026-06-12,2026-06-22,Delivered,IDFC,152900
+BK-50067,LD-10114,2026-05-18,Dev Shetty,Simple One 3.7kWh,True,2026-07-03,2026-07-07,Delivered,HDFC,164400
+BK-50068,LD-10117,2026-05-18,Indira Misra,Simple One 4.5kWh,False,,,Cancelled,Greenko Finance,178800
+BK-50069,LD-10134,2026-05-19,Harshil Dhingra,Simple One 4.5kWh,True,2026-06-02,2026-06-14,Delivered,IDFC,171800
+BK-50070,LD-10121,2026-05-20,Yashodhara Ratta,Simple One 4.5kWh,True,2026-06-01,2026-06-06,Delivered,IDFC,172500
+BK-50071,LD-10122,2026-05-20,Aryan Maharaj,Simple Dot One,True,2026-06-26,2026-07-08,Delivered,IDFC,155000
+BK-50072,LD-10123,2026-05-24,William Date,Simple One 4.5kWh,True,2026-06-21,2026-07-03,Delivered,IDFC,174200
+BK-50073,LD-10140,2026-05-24,Riya Sathe,Simple One 3.7kWh,True,2026-06-20,2026-06-23,Delivered,Self-Funded,158900
+BK-50074,LD-10116,2026-05-26,Andrew Patil,Simple One 4.5kWh,True,2026-07-06,2026-07-11,Delivered,HDFC,168600
+BK-50075,LD-10136,2026-05-27,Chasmum Issac,Simple One 3.7kWh,False,,,Cancelled,Greenko Finance,161800
+BK-50076,,2026-05-27,Harinakshi Grover,Simple Dot One,True,2026-07-04,2026-07-14,Delivered,Self-Funded,144900
+BK-50077,LD-10142,2026-05-29,Bhavna Dugar,Simple One 4.5kWh,True,2026-07-01,2026-07-07,Delivered,HDFC,170800
+BK-50078,LD-10130,2026-05-29,Krisha Saini,Simple One 3.7kWh,True,2026-06-20,2026-06-30,Delivered,Self-Funded,164000
+BK-50079,LD-10143,2026-05-31,Indira Tripathi,Simple One 4.5kWh,True,2026-06-22,2026-07-01,Delivered,Greenko Finance,172500
+BK-50080,LD-10146,2026-05-31,Bhavya Rattan,Simple One 4.5kWh,True,2026-06-20,2026-06-28,Delivered,Self-Funded,178800
+BK-50081,,2026-06-01,Ganga Murthy,Simple One 3.7kWh,True,2026-07-15,2026-07-21,Delivered,HDFC,153700
+BK-50082,LD-10148,2026-06-01,Isaac Patil,Simple One 3.7kWh,True,2026-06-18,2026-06-20,Delivered,Self-Funded,162500
+BK-50083,LD-10158,2026-06-04,Eesha Solanki,Simple One 3.7kWh,True,2026-07-02,2026-07-07,Delivered,HDFC,168200
+BK-50084,,2026-06-07,Mugdha Sarraf,Simple One 4.5kWh,True,2026-07-20,2026-07-28,Delivered,Greenko Finance,176600
+BK-50085,LD-90188,2026-06-08,JANUJA PRADHAN,Simple One 3.7kWh,True,2026-07-05,2026-07-15,Delivered,HDFC,161800
+BK-50086,LD-10167,2026-06-11,Vaishnavi Bora,Simple One 3.7kWh,True,2026-07-18,2026-07-26,Delivered,Greenko Finance,156800
+BK-50087,LD-10162,2026-06-11,Dhriti Sanghvi,Simple One 3.7kWh,True,2026-07-05,2026-07-13,Delivered,IDFC,167500
+BK-50088,LD-10157,2026-06-13,Noah Sarma,Simple One 4.5kWh,True,2026-06-24,2026-06-30,Delivered,Greenko Finance,176500
+BK-50089,LD-10169,2026-06-14,Mohammed Gupta,Simple Dot One,True,2026-07-21,2026-07-31,Delivered,Self-Funded,150500
+BK-50090,LD-10185,2026-06-15,Advik Salvi,Simple One 4.5kWh,True,2026-08-08,2026-08-20,Delivered,IDFC,174900
+BK-50091,LD-10170,2026-06-16,Bhanumati Sur,Simple One 4.5kWh,True,2026-07-11,2026-07-16,Delivered,Greenko Finance,168300
+BK-50092,,2026-06-16,TANAY TOOR,Simple One 4.5kWh,True,2026-06-26,2026-07-06,Delivered,Self-Funded,181200
+BK-50093,LD-10174,2026-06-17,Charles Dugal,Simple One 4.5kWh,True,2026-07-26,2026-08-05,Delivered,Self-Funded,175600
+BK-50094,LD-10175,2026-06-17,Forum Sabharwal,Simple One 4.5kWh,True,2026-07-16,2026-07-21,Delivered,HDFC,171100
+BK-50095,LD-10193,2026-06-18,Warinder Patil,Simple One 3.7kWh,True,2026-07-17,2026-07-26,Delivered,HDFC,161300
+BK-50096,ld-10186 ,2026-06-18,Pallavi Malhotra,Simple One 4.5kWh,True,2026-07-09,2026-07-19,Delivered,IDFC,179400
+BK-50097,LD-10173,2026-06-19,Lila Rege,Simple Dot One,True,2026-07-18,2026-07-29,Delivered,Self-Funded,144800
+BK-50098,LD-10191,2026-06-21,Mitali Majumdar,Simple One 3.7kWh,True,2026-07-17,2026-07-19,Delivered,IDFC,162600
+BK-50099,LD-10183,2026-06-21,Keya Ranganathan,Simple One 3.7kWh,True,2026-07-22,2026-07-29,Delivered,IDFC,159300
+BK-50100,LD-10166,2026-06-21,Megha Atwal,Simple One 4.5kWh,True,2026-08-02,2026-08-04,Delivered,Self-Funded,175400
+BK-50101,LD-10190,2026-06-22,Diya Bora,Simple One 4.5kWh,True,2026-07-22,2026-08-03,Delivered,HDFC,175300
+BK-50102,LD-10192,2026-06-22,Ayush Batra,Simple One 4.5kWh,True,2026-07-18,2026-07-20,Delivered,HDFC,179900
+BK-50103,,2026-06-23,YASH WALI,Simple One 4.5kWh,True,2026-07-27,2026-07-31,Delivered,Self-Funded,180800
+BK-50104,LD-10151,2026-06-23,Harish Sarraf,Simple One 3.7kWh,True,,,Cancelled,Greenko Finance,158300
+BK-50105,LD-10176,2026-06-24,Janaki Handa,Simple One 4.5kWh,True,2026-08-04,2026-08-15,Delivered,HDFC,172700
+BK-50106,LD-10196,2026-06-26,Kevin Zacharia,Simple One 4.5kWh,True,2026-07-22,2026-08-03,Delivered,IDFC,171100
+BK-50107,LD-10182,2026-06-26,Zayan Kashyap,Simple One 3.7kWh,False,,,Cancelled,Greenko Finance,152200
+BK-50108,LD-10201,2026-06-26,Harini Mammen,Simple One 4.5kWh,True,2026-07-25,2026-08-06,Delivered,HDFC,176500
+BK-50109,LD-10195,2026-06-26,Mitali Buch,Simple One 4.5kWh,True,2026-07-26,2026-07-31,Delivered,HDFC,178500
+BK-50110,LD-10184,2026-06-27,Upasna Lanka,Simple One 4.5kWh,True,2026-07-25,2026-08-02,Delivered,IDFC,180800
+BK-50111,LD-10202,2026-06-27,Warjas Gaba,Simple One 3.7kWh,True,2026-07-24,2026-07-31,Delivered,HDFC,160500
+BK-50112,LD-10208,2026-06-29,Vasudha Chhabra,Simple One 4.5kWh,True,2026-08-03,2026-08-11,Delivered,HDFC,170800
+BK-50113,LD-10205,2026-06-29,Manbir Agate,Simple One 4.5kWh,True,2026-07-15,2026-07-26,Delivered,IDFC,168900
+BK-50114,LD-10207,2026-07-02,Owen Choudhary,Simple One 3.7kWh,True,2026-08-01,2026-08-04,Delivered,Greenko Finance,159200
+BK-50115,LD-10214,2026-07-04,Ayaan D’Alia,Simple One 3.7kWh,True,2026-08-03,2026-08-05,Delivered,IDFC,166400
+BK-50116,LD-10200,2026-07-04,Panini Krishna,Simple Dot One,True,2026-07-30,2026-08-01,Delivered,Self-Funded,148000
+BK-50117,LD-10213,2026-07-05,Ayushman Chander,Simple One 4.5kWh,True,2026-08-07,2026-08-12,Delivered,Self-Funded,172600
+BK-50118,LD-10210,2026-07-05,Karan Aurora,Simple One 4.5kWh,True,2026-08-07,2026-08-13,Delivered,HDFC,172100
+BK-50119,LD-10228,2026-07-06,Upkaar Virk,Simple One 4.5kWh,True,2026-08-04,2026-08-06,Delivered,Greenko Finance,171700
+BK-50120,LD-10227,2026-07-07,Chavvi Maharaj,Simple Dot One,True,2026-08-02,2026-08-04,Delivered,Self-Funded,146000
+BK-50121,LD-10233,2026-07-08,Chakrika Datta,Simple One 4.5kWh,True,2026-07-23,2026-07-27,Delivered,Self-Funded,171300
+BK-50122,LD-10221,2026-07-08,Sachi Mane,Simple Dot One,True,,,Cancelled,HDFC,146100
+BK-50123,LD-10223,2026-07-09,Laksh Barad,Simple One 4.5kWh,True,2026-08-03,2026-08-09,Delivered,Greenko Finance,176200
+BK-50124,LD-10215,2026-07-09,Osha Ramachandran,Simple One 4.5kWh,True,2026-08-05,2026-08-15,Delivered,Self-Funded,174500
+BK-50125,,2026-07-10,Vyanjana Chand,Simple One 4.5kWh,True,2026-08-16,2026-08-20,Delivered,IDFC,166300
+BK-50126,LD-10219,2026-07-11,Damyanti Mani,Simple Dot One,True,2026-08-05,2026-08-12,Delivered,Greenko Finance,145700
+BK-50127,LD-10217,2026-07-11,Anvi Anand,Simple One 4.5kWh,True,2026-08-12,2026-08-22,Delivered,Greenko Finance,170900
+BK-50128,LD-10222,2026-07-12,Kashvi Edwin,Simple One 3.7kWh,True,2026-08-17,2026-08-22,Delivered,IDFC,157300
+BK-50129,LD-10243,2026-07-12,Ekbal Bhasin,Simple Dot One,True,2026-07-20,2026-07-26,Delivered,IDFC,148800
+BK-50130,LD-10240,2026-07-13,Saanvi Samra,Simple One 4.5kWh,False,,,Cancelled,Self-Funded,176100
+BK-50131,,2026-07-14,Ekani Chauhan,Simple One 3.7kWh,True,2026-08-10,2026-08-15,Delivered,HDFC,156700
+BK-50132,LD-10230,2026-07-14,Inaya Kapur,Simple One 3.7kWh,True,2026-08-16,2026-08-18,Delivered,Self-Funded,166000
+BK-50133,LD-10216,2026-07-14,Hritik Palla,Simple One 4.5kWh,True,2026-08-05,2026-08-11,Delivered,IDFC,174200
+BK-50134,LD-10234,2026-07-15,Riya Pai,Simple One 4.5kWh,True,2026-08-22,2026-08-26,Delivered,HDFC,176700
+BK-50135,LD-10249,2026-07-15,Baghyawati Raja,Simple One 4.5kWh,True,2026-08-27,2026-09-04,Delivered,IDFC,184300
+BK-50136,LD-10235,2026-07-15,Amrita Naidu,Simple Dot One,True,2026-07-21,2026-07-24,Delivered,HDFC,141400
+BK-50137,LD-10225,2026-07-15,Balendra Biswas,Simple One 3.7kWh,True,2026-08-06,2026-08-10,Delivered,HDFC,156500
+BK-50138,LD-10231,2026-07-16,Pranit Garde,Simple Dot One,True,2026-08-30,2026-09-07,Delivered,HDFC,150900
+BK-50139,LD-10248,2026-07-19,Anirudh Sharaf,Simple One 4.5kWh,True,2026-07-25,2026-08-02,Delivered,Self-Funded,171800
+BK-50140,LD-10251,2026-07-19,Forum Chandra,Simple Dot One,True,2026-07-31,2026-08-12,Delivered,IDFC,145800
+BK-50141,LD-10253,2026-07-21,Qushi Nagy,Simple Dot One,True,2026-08-19,2026-08-25,Delivered,Self-Funded,149700
+BK-50142,LD-10263,2026-07-22,Aadhya Prasad,Simple One 3.7kWh,True,2026-08-03,2026-08-10,Delivered,HDFC,164900
+BK-50143,LD-10262,2026-07-22,Dakshesh Trivedi,Simple One 3.7kWh,True,2026-08-17,2026-08-24,Delivered,IDFC,165700
+BK-50144,LD-10259,2026-07-22,Nikita Chander,Simple One 3.7kWh,True,2026-08-22,2026-08-30,Delivered,HDFC,158000
+BK-50145,LD-10255,2026-07-22,Lopa Nayar,Simple One 3.7kWh,True,2026-08-14,2026-08-20,Delivered,Self-Funded,158000
+BK-50146,LD-10246,2026-07-22,Lajita Mall,Simple One 4.5kWh,False,,,Cancelled,Self-Funded,171900
+BK-50147,LD-10244,2026-07-22,Charvi Ravi,Simple One 3.7kWh,True,2026-08-25,2026-08-28,Delivered,Self-Funded,162700
+BK-50148,LD-10229,2026-07-23,Arya Shere,Simple One 4.5kWh,True,2026-08-01,2026-08-06,Delivered,Self-Funded,174900
+BK-50149,LD-10237,2026-07-25,Lajita Walia,Simple One 3.7kWh,True,2026-09-12,2026-09-23,Delivered,Greenko Finance,156400
+BK-50150,LD-10257,2026-07-25,Benjamin Sengupta,Simple One 3.7kWh,True,2026-08-14,2026-08-19,Delivered,HDFC,158400
+BK-50151,LD-10264,2026-07-25,Gaurangi Deol,Simple One 3.7kWh,True,2026-08-27,2026-09-02,Delivered,IDFC,162300
+BK-50152,LD-10267,2026-07-26,Kala Divan,Simple One 3.7kWh,True,2026-08-25,2026-08-31,Delivered,Self-Funded,161400
+BK-50153,LD-10252,2026-07-26,Dayamai Singh,Simple One 4.5kWh,True,2026-08-04,2026-08-16,Delivered,Greenko Finance,169400
+BK-50154,LD-10241,2026-07-26,Ekaraj Majumdar,Simple One 3.7kWh,True,2026-09-11,2026-09-19,Delivered,Self-Funded,157300
+BK-50155,,2026-07-27,Aarini Subramaniam,Simple One 3.7kWh,True,2026-08-22,2026-08-28,Delivered,IDFC,166100
+BK-50156,,2026-07-28,Devansh Soni,Simple One 4.5kWh,True,2026-09-05,2026-09-07,Delivered,IDFC,176700
+BK-50157,LD-10275,2026-07-28,Udant Bajwa,Simple One 4.5kWh,True,2026-08-27,2026-09-05,Delivered,IDFC,177800
+BK-50158,LD-10277,2026-07-29,Shravya Savant,Simple One 4.5kWh,True,2026-09-04,2026-09-08,Delivered,HDFC,172600
+BK-50159,LD-10282,2026-07-29,Siddharth Sha,Simple One 3.7kWh,True,2026-08-29,2026-09-08,Delivered,HDFC,156400
+BK-50160,LD-10272,2026-07-29,Jai Kota,Simple One 3.7kWh,True,2026-08-23,2026-09-02,Delivered,IDFC,163900
+BK-50161,LD-10258,2026-07-29,Vihaan Rajagopal,Simple One 4.5kWh,False,,,Cancelled,Self-Funded,177800
+BK-50162,LD-10289,2026-07-30,Bhavika Sampath,Simple One 4.5kWh,True,2026-08-26,2026-09-05,Delivered,Greenko Finance,172800
+BK-50163,LD-10274,2026-07-30,Chakradev Kannan,Simple One 3.7kWh,True,2026-08-13,2026-08-25,Delivered,Self-Funded,151500
+BK-50164,LD-10288,2026-07-31,Wahab Raval,Simple One 4.5kWh,True,2026-09-03,2026-09-07,Delivered,IDFC,176500
+BK-50165,LD-10284,2026-08-01,Yagnesh Sarin,Simple One 4.5kWh,True,2026-09-29,2026-10-11,Delivered,HDFC,173800
+BK-50166,LD-10278,2026-08-01,Banjeet Balasubramanian,Simple One 3.7kWh,True,2026-09-07,2026-09-14,Delivered,HDFC,152700
+BK-50167,LD-10313,2026-08-01,Faras Mangal,Simple One 4.5kWh,True,2026-08-31,2026-09-04,Delivered,Self-Funded,173800
+BK-50168,LD-10290,2026-08-03,Ekaraj Mallick,Simple One 4.5kWh,True,2026-08-24,2026-09-03,Delivered,Self-Funded,169400
+BK-50169,ld-10303 ,2026-08-04,Dipta Bhandari,Simple Dot One,True,2026-08-19,2026-08-24,Delivered,Greenko Finance,147100
+BK-50170,LD-10305,2026-08-04,Michael Dutta,Simple One 4.5kWh,True,2026-08-16,2026-08-25,Delivered,HDFC,178900
+BK-50171,LD-10261,2026-08-04,Chasmum Atwal,Simple One 4.5kWh,True,2026-09-24,2026-09-30,Delivered,HDFC,173200
+BK-50172,LD-10304,2026-08-05,Bhavani Chacko,Simple One 4.5kWh,True,2026-08-19,2026-08-23,Delivered,Self-Funded,175700
+BK-50173,LD-10310,2026-08-05,Arunima Dugal,Simple One 4.5kWh,True,2026-08-14,2026-08-19,Delivered,HDFC,167900
+BK-50174,LD-10276,2026-08-05,Wahab Yogi,Simple One 4.5kWh,True,2026-09-01,2026-09-07,Delivered,HDFC,169600
+BK-50175,LD-10297,2026-08-06,Harinakshi Kant,Simple One 4.5kWh,True,2026-09-11,2026-09-13,Delivered,HDFC,175900
+BK-50176,LD-10306,2026-08-06,Jonathan Sama,Simple One 3.7kWh,True,2026-09-12,2026-09-14,Delivered,HDFC,159200
+BK-50177,LD-10318,2026-08-06,Tanmayi Dhillon,Simple One 4.5kWh,True,2026-08-24,2026-09-04,Delivered,HDFC,175600
+BK-50178,LD-10299,2026-08-07,Devika Rastogi,Simple One 3.7kWh,True,2026-08-27,2026-09-02,Delivered,HDFC,162000
+BK-50179,LD-10311,2026-08-07,Vrishti Dixit,Simple One 4.5kWh,True,2026-09-05,2026-09-14,Delivered,Greenko Finance,170600
+BK-50180,LD-10307,2026-08-07,Zaid Dara,Simple One 4.5kWh,True,2026-08-20,2026-08-22,Delivered,Self-Funded,179600
+BK-50181,LD-10316,2026-08-08,Upasna Srinivas,Simple Dot One,True,2026-09-17,2026-09-19,Delivered,HDFC,143000
+BK-50182,LD-10293,2026-08-09,Yasti Solanki,Simple Dot One,True,2026-09-03,2026-09-10,Delivered,HDFC,149700
+BK-50183,LD-10301,2026-08-09,Parth Singhal,Simple One 3.7kWh,True,2026-09-08,2026-09-12,Delivered,IDFC,156700
+BK-50184,LD-10309,2026-08-10,Hardik Johal,Simple One 3.7kWh,True,2026-09-01,2026-09-09,Delivered,Self-Funded,157600
+BK-50185,LD-10283,2026-08-11,Radha Chaudhari,Simple One 4.5kWh,True,2026-10-14,2026-10-24,Delivered,IDFC,166800
+BK-50186,LD-10321,2026-08-12,Gayathri Chaudry,Simple One 4.5kWh,False,,,Cancelled,Self-Funded,174900
+BK-50187,LD-10319,2026-08-12,Balveer Kota,Simple One 4.5kWh,True,2026-09-01,2026-09-10,Delivered,Self-Funded,172900
+BK-50188,LD-10325,2026-08-14,Om Bose,Simple Dot One,True,2026-09-06,2026-09-14,Delivered,Self-Funded,142500
+BK-50189,LD-10330,2026-08-15,Samar Loke,Simple One 4.5kWh,True,2026-09-25,2026-09-27,Delivered,IDFC,171400
+BK-50190,LD-10324,2026-08-15,Kabir Soman,Simple One 4.5kWh,True,2026-09-15,2026-09-25,Delivered,Greenko Finance,171900
+BK-50191,LD-10323,2026-08-15,Aarush Lall,Simple One 4.5kWh,True,2026-09-20,2026-09-29,Delivered,Self-Funded,174200
+BK-50192,LD-10308,2026-08-15,Zarna Shetty,Simple One 4.5kWh,True,2026-09-23,2026-09-28,Delivered,HDFC,178300
+BK-50193,LD-10344,2026-08-16,Rachana Naidu,Simple One 4.5kWh,True,2026-09-13,2026-09-24,Delivered,HDFC,168200
+BK-50194,LD-10343,2026-08-18,Advay Contractor,Simple One 4.5kWh,True,2026-09-15,2026-09-20,Delivered,Self-Funded,170100
+BK-50195,LD-10314,2026-08-18,Wishi Sathe,Simple One 3.7kWh,True,2026-09-29,2026-10-09,Delivered,HDFC,165500
+BK-50196,LD-10333,2026-08-19,Rushil Saini,Simple Dot One,True,2026-09-27,2026-10-03,Delivered,HDFC,147000
+BK-50197,LD-10345,2026-08-20,Jalsa Bir,Simple One 4.5kWh,True,2026-09-16,2026-09-20,Delivered,Self-Funded,168100
+BK-50198,LD-10342,2026-08-20,Hemani Sani,Simple One 3.7kWh,True,2026-09-20,2026-10-01,Delivered,Self-Funded,163000
+BK-50199,LD-10332,2026-08-21,Dipta Sarin,Simple Dot One,True,2026-09-12,2026-09-21,Delivered,Self-Funded,141600
+BK-50200,LD-10349,2026-08-24,Ucchal Sen,Simple One 3.7kWh,True,2026-10-04,2026-10-13,Delivered,Self-Funded,157400
+BK-50201,LD-10348,2026-08-24,Watika Mangat,Simple Dot One,True,2026-09-27,2026-10-03,Delivered,Self-Funded,147400
+BK-50202,LD-10355,2026-08-25,Tanish Bhatt,Simple One 3.7kWh,True,2026-09-27,2026-10-08,Delivered,Greenko Finance,160300
+BK-50203,ld-10331 ,2026-08-25,Hemangini Lalla,Simple One 4.5kWh,True,2026-09-14,2026-09-25,Delivered,Self-Funded,171200
+BK-50204,LD-10338,2026-08-25,Balhaar Date,Simple One 4.5kWh,True,2026-09-17,2026-09-25,Delivered,HDFC,172700
+BK-50205,LD-10339,2026-08-25,Ekbal Garg,Simple One 4.5kWh,True,2026-10-03,2026-10-14,Delivered,Self-Funded,170100
+BK-50206,,2026-08-25,Qushi Gole,Simple One 4.5kWh,True,2026-09-26,2026-10-02,Delivered,HDFC,176800
+BK-50207,LD-10362,2026-08-26,Charvi Kakar,Simple One 4.5kWh,True,2026-09-28,2026-09-30,Delivered,Self-Funded,178100
+BK-50208,LD-10353,2026-08-26,Kai Chad,Simple Dot One,True,2026-09-24,2026-10-06,Delivered,HDFC,149200
+BK-50209,LD-10357,2026-08-27,Nathan Mukhopadhyay,Simple One 3.7kWh,True,2026-09-26,2026-10-04,Delivered,Self-Funded,166100
+BK-50210,LD-10350,2026-08-27,Rayaan Trivedi,Simple One 4.5kWh,True,2026-09-26,2026-10-01,Delivered,HDFC,167200
+BK-50211,LD-10358,2026-08-28,Teerth Bhardwaj,Simple One 4.5kWh,True,2026-10-02,2026-10-06,Delivered,Self-Funded,170500
+BK-50212,LD-10336,2026-08-30,Hemani Khosla,Simple One 3.7kWh,True,,,Cancelled,Greenko Finance,157200
+BK-50213,LD-10359,2026-08-30,Gaurangi Sabharwal,Simple One 4.5kWh,True,2026-09-29,2026-10-04,Delivered,Greenko Finance,171400
+BK-50214,LD-10363,2026-08-30,Ekiya Suresh,Simple Dot One,True,2026-10-14,,Invoiced,Greenko Finance,142400
+BK-50215,LD-10370,2026-09-01,Upma Bahl,Simple One 4.5kWh,True,2026-09-20,2026-09-26,Delivered,Self-Funded,175000
+BK-50216,LD-10382,2026-09-01,Frado Mander,Simple Dot One,True,2026-09-23,2026-09-29,Delivered,Self-Funded,147000
+BK-50217,LD-10387,2026-09-05,Yashica Issac,Simple One 3.7kWh,True,2026-09-27,2026-10-01,Delivered,Self-Funded,168400
+BK-50218,LD-10360,2026-09-05,Adweta Edwin,Simple One 4.5kWh,True,2026-09-30,2026-10-02,Delivered,Self-Funded,173800
+BK-50219,LD-10378,2026-09-05,Bachittar Kata,Simple One 4.5kWh,True,2026-10-10,2026-10-13,Delivered,Self-Funded,170200
+BK-50220,LD-10369,2026-09-06,Warda Ratta,Simple Dot One,True,2026-10-19,2026-10-25,Delivered,HDFC,147500
+BK-50221,,2026-09-07,NIKITA NARAYANAN,Simple One 3.7kWh,True,2026-10-13,2026-10-23,Delivered,Greenko Finance,158400
+BK-50222,LD-10392,2026-09-08,Ojasvi Bhatia,Simple One 3.7kWh,True,2026-09-28,2026-10-10,Delivered,Self-Funded,160100
+BK-50223,LD-10366,2026-09-08,Tripti Dua,Simple One 4.5kWh,True,2026-10-02,2026-10-11,Delivered,HDFC,177600
+BK-50224,LD-10398,2026-09-08,Janaki Varghese,Simple One 4.5kWh,True,2026-10-05,2026-10-08,Delivered,Greenko Finance,175700
+BK-50225,LD-10389,2026-09-09,Oeshi Bera,Simple Dot One,True,2026-09-18,2026-09-22,Delivered,Self-Funded,145100
+BK-50226,LD-10391,2026-09-10,Niharika Sunder,Simple One 3.7kWh,False,,,Booked,Self-Funded,152300
+BK-50227,LD-10403,2026-09-10,Qasim Handa,Simple Dot One,True,2026-09-25,2026-09-29,Delivered,HDFC,152500
+BK-50228,LD-10386,2026-09-10,Bhavna Sarma,Simple One 3.7kWh,True,2026-10-11,2026-10-18,Delivered,HDFC,154600
+BK-50229,LD-10411,2026-09-11,Chakradev Kari,Simple Dot One,True,2026-10-13,2026-10-24,Delivered,Greenko Finance,149300
+BK-50230,LD-10376,2026-09-11,Irya Sampath,Simple One 4.5kWh,True,2026-09-22,2026-09-30,Delivered,Greenko Finance,171200
+BK-50231,LD-10397,2026-09-11,Jason Sha,Simple One 4.5kWh,True,2026-10-04,2026-10-13,Delivered,Greenko Finance,181800
+BK-50232,LD-10396,2026-09-11,Tara Dhar,Simple Dot One,True,2026-10-12,2026-10-20,Delivered,HDFC,148500
+BK-50233,LD-10422,2026-09-12,Ekta Gopal,Simple One 4.5kWh,True,2026-10-17,2026-10-20,Delivered,Self-Funded,172700
+BK-50234,LD-97391,2026-09-12,Mekhala Basak,Simple One 3.7kWh,True,2026-10-10,2026-10-22,Delivered,Greenko Finance,156700
+BK-50235,LD-10419,2026-09-13,Urvashi Ray,Simple One 3.7kWh,True,2026-10-09,2026-10-14,Delivered,Self-Funded,161300
+BK-50236,LD-10406,2026-09-14,Bhanumati Krishnan,Simple One 3.7kWh,True,2026-10-14,2026-10-16,Delivered,Self-Funded,158000
+BK-50237,LD-10424,2026-09-14,Daksh Karnik,Simple One 4.5kWh,True,2026-10-09,2026-10-17,Delivered,Self-Funded,181700
+BK-50238,,2026-09-14,Azaan Chand,Simple One 3.7kWh,False,,,Cancelled,Self-Funded,155900
+BK-50239,LD-10431,2026-09-14,Chakrika Chaudhuri,Simple One 4.5kWh,True,2026-10-03,2026-10-11,Delivered,Self-Funded,176800
+BK-50240,LD-10404,2026-09-16,Hemal Chad,Simple One 4.5kWh,True,2026-10-17,2026-10-21,Delivered,HDFC,172300
+BK-50241,LD-10405,2026-09-17,Maanav De,Simple One 3.7kWh,False,,,Booked,IDFC,164100
+BK-50242,LD-10438,2026-09-17,Advika Jayaraman,Simple Dot One,False,,,Booked,IDFC,145300
+BK-50243,ld-10430 ,2026-09-18,Gagan Sami,Simple One 4.5kWh,True,2026-10-25,,Invoiced,HDFC,176800
+BK-50244,LD-10453,2026-09-18,Gauri Bumb,Simple Dot One,True,2026-10-11,2026-10-15,Delivered,Greenko Finance,145400
+BK-50245,LD-10410,2026-09-19,Yachana Mahajan,Simple One 4.5kWh,False,,,Booked,Greenko Finance,174000
+BK-50246,LD-10433,2026-09-20,Ikbal Kothari,Simple Dot One,True,2026-10-10,2026-10-18,Delivered,HDFC,153200
+BK-50247,LD-10418,2026-09-20,Oni Virk,Simple Dot One,True,,,Booked,HDFC,150200
+BK-50248,LD-10436,2026-09-21,Girik Menon,Simple One 3.7kWh,True,2026-10-18,,Invoiced,HDFC,159600
+BK-50249,LD-10440,2026-09-21,Yashica Cherian,Simple One 4.5kWh,False,,,Booked,Self-Funded,170000
+BK-50250,LD-10425,2026-09-22,Samesh Biswas,Simple One 3.7kWh,True,2026-10-04,2026-10-15,Delivered,Self-Funded,151900
+BK-50251,,2026-09-22,SIYA THAKUR,Simple One 4.5kWh,False,,,Booked,Self-Funded,172500
+BK-50252,LD-10456,2026-09-22,Jatin Sha,Simple One 4.5kWh,False,,,Booked,HDFC,175900
+BK-50253,LD-10460,2026-09-22,Udant Dewan,Simple One 3.7kWh,True,2026-10-12,2026-10-18,Delivered,IDFC,168400
+BK-50254,LD-10412,2026-09-22,Charan Mani,Simple One 4.5kWh,True,2026-10-19,,Invoiced,HDFC,171700
+BK-50255,LD-10455,2026-09-22,Darpan Narayan,Simple One 4.5kWh,True,2026-10-25,,Invoiced,Self-Funded,177500
+BK-50256,LD-10462,2026-09-22,Harish Hari,Simple One 4.5kWh,True,2026-10-24,,Invoiced,Self-Funded,182200
+BK-50257,LD-10413,2026-09-23,Kevin Palla,Simple One 4.5kWh,True,2026-10-04,2026-10-15,Delivered,Self-Funded,173000
+BK-50258,LD-10449,2026-09-23,Ishwar Kamdar,Simple One 4.5kWh,True,2026-10-23,,Invoiced,Self-Funded,175400
+BK-50259,LD-10463,2026-09-23,Vedika Handa,Simple One 4.5kWh,True,2026-10-19,2026-10-25,Delivered,IDFC,176500
+BK-50260,LD-10448,2026-09-23,William Saini,Simple One 4.5kWh,True,,,Booked,Self-Funded,170800
+BK-50261,LD-10439,2026-09-24,Anjali Sengupta,Simple One 4.5kWh,True,2026-10-18,,Invoiced,IDFC,176400
+BK-50262,LD-10432,2026-09-24,Atharv Chand,Simple One 3.7kWh,True,2026-10-20,,Invoiced,IDFC,159900
+BK-50263,LD-10446,2026-09-25,Manthan Lata,Simple One 3.7kWh,False,,,Booked,IDFC,155100
+BK-50264,LD-10469,2026-09-25,Tripti Yadav,Simple One 4.5kWh,True,2026-10-14,2026-10-23,Delivered,IDFC,177700
+BK-50265,LD-10442,2026-09-25,Ekavir Varkey,Simple One 3.7kWh,True,2026-10-16,,Invoiced,IDFC,156200
+BK-50266,LD-10465,2026-09-26,Karan Mital,Simple One 3.7kWh,True,2026-10-22,,Invoiced,Self-Funded,158200
+BK-50267,LD-10479,2026-09-26,Lipika Setty,Simple One 4.5kWh,True,2026-10-25,,Invoiced,Self-Funded,168000
+BK-50268,LD-10444,2026-09-27,Devansh Rajan,Simple One 4.5kWh,True,2026-10-20,,Invoiced,Self-Funded,169200
+BK-50269,LD-10434,2026-09-28,Janya Baral,Simple One 4.5kWh,True,,,Booked,Self-Funded,171800
+BK-50270,LD-10443,2026-09-28,Tara Balasubramanian,Simple One 4.5kWh,True,2026-10-20,,Invoiced,Self-Funded,167300
+BK-50271,LD-10468,2026-09-28,Ekavir Bhargava,Simple One 4.5kWh,True,2026-10-15,,Invoiced,Self-Funded,170600
+BK-50272,LD-10467,2026-09-28,Sanaya Dutt,Simple One 3.7kWh,True,2026-10-15,,Invoiced,Greenko Finance,160000
+BK-50273,LD-10451,2026-09-28,Indali Divan,Simple Dot One,True,,,Booked,HDFC,151200
+BK-50274,LD-10497,2026-09-29,Widisha Dhar,Simple One 3.7kWh,True,,,Booked,Self-Funded,154900
+BK-50275,LD-10457,2026-09-29,Nidhi Kohli,Simple One 4.5kWh,True,2026-10-19,2026-10-24,Delivered,IDFC,174100
+BK-50276,LD-10490,2026-09-29,Idika Walia,Simple One 3.7kWh,True,,,Booked,Greenko Finance,166700
+BK-50277,LD-10486,2026-09-30,Gayathri Deep,Simple One 3.7kWh,True,2026-10-21,,Invoiced,Self-Funded,152600
+BK-50278,LD-10476,2026-09-30,Shivansh Krish,Simple One 3.7kWh,True,,,Booked,IDFC,159000
+BK-50279,LD-10496,2026-10-01,Maanas Manne,Simple One 4.5kWh,True,2026-10-18,2026-10-22,Delivered,Self-Funded,173600
+BK-50280,LD-10483,2026-10-01,Veda Malhotra,Simple One 4.5kWh,True,2026-10-24,,Invoiced,Self-Funded,175300
+BK-50281,LD-10466,2026-10-02,Daksha Mangat,Simple One 4.5kWh,False,,,Booked,Self-Funded,176500
+BK-50282,LD-10492,2026-10-03,Tara Chaudhry,Simple Dot One,False,,,Booked,IDFC,154600
+BK-50283,LD-10477,2026-10-03,Dhruv Rattan,Simple One 4.5kWh,True,2026-10-23,2026-10-25,Delivered,IDFC,181200
+BK-50284,LD-10475,2026-10-04,Sudiksha Madan,Simple One 3.7kWh,True,2026-10-20,,Invoiced,HDFC,159600
+BK-50285,LD-10495,2026-10-08,Charita Tripathi,Simple Dot One,False,,,Booked,Self-Funded,146900
+BK-50286,LD-10494,2026-10-09,Vivaan Lalla,Simple One 3.7kWh,False,,,Booked,Self-Funded,156900

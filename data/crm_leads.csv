@@ -1,0 +1,501 @@
+lead_id,created_date,customer_name,phone_hash,city,experience_center,lead_source,lead_stage,test_ride_date,drop_off_reason
+LD-10001,2026-01-08,Yadavi Prakash,f79190d6f56a489b,Bangalore,Yelahanka,Meta Ads,Drop-off,,Range Anxiety
+LD-10002,2026-01-14,Harini Gour,3fe909b6ca0396f5,Bangalore,Marathahalli,Meta Ads,Drop-off,,High Delivery TAT
+LD-10003,2026-01-16,Fiyaz Sangha,f56725ae94c34a7f,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-01-19,None
+LD-10004,2026-01-23,Abhiram Mistry,865ce1b7f5b44b5f,Hyderabad,Gachibowli,Google Search,Drop-off,2026-01-30,Range Anxiety
+LD-10005,2026-01-28,Chakrika Bains,a03b49cc2a0fb942,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-02-03,High Delivery TAT
+LD-10006,2026-01-28,Hardik Suri,96c20d84c62e1f62,Hyderabad,Gachibowli,Meta Ads,Drop-off,,Price/Financing
+LD-10007,2026-01-30,Libni Doshi,81755da476e0f9d5,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-02-02,None
+LD-10008,2026-01-31,Rajata Sunder,ebc878019bb195aa,Bangalore,HSR Layout,Website,Test Ride Completed,2026-02-06,None
+LD-10009,2026-02-02,Sachi Ganesan,db13472bc35f785d,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-02-13,Price/Financing
+LD-10010,2026-02-07,Gauri Kohli,9a26aaaf3d900165,Bangalore,Marathahalli,Google Search,Drop-off,,Competitor Purchase
+LD-10011,2026-02-09,Netra Varkey,8ea7e128c0936e1d,Hyderabad,Banjara Hills,Google Search,Drop-off,,Range Anxiety
+LD-10012,2026-02-12,Lavanya Barad,a9ad6a76ce27ef56,Bangalore,Marathahalli,Google Search,Test Ride Completed,2026-02-25,None
+LD-10013,2026-02-14,Zayyan Naik,e1c60fea4f8fd3cb,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-02-18,None
+LD-10014,2026-02-14,Ijaya Rege,f4c564cfea5efe4c,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-02-17,None
+LD-10015,2026-02-15,Ekansh Balay,c18fcac57aafbd02,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-02-18,None
+LD-10016,2026-02-19,Laksh Dubey,5dec29ad14f6b8d2,Bangalore,Marathahalli,Meta Ads,Drop-off,,Range Anxiety
+LD-10017,2026-02-19,Balhaar Memon,6bf3db8f0c5046a3,Chennai,Anna Nagar,Google Search,Drop-off,2026-02-25,Range Anxiety
+LD-10018,2026-02-23,Anvi Nair,0130a55c89d3a560,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-02-25,None
+LD-10019,2026-02-23,Simon Tata,4c950f0c9197205f,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-03-01,None
+LD-10020,2026-02-24,Advaith Varughese,bb82659297323a97,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-03-02,None
+LD-10021,2026-02-25,Rudra Ghose,930ef73ac5d16655,Bangalore,Yelahanka,Google Search,Drop-off,,Price/Financing
+LD-10022,2026-02-27,Logan Sami,8bddd42312e54546,Bangalore,Marathahalli,Google Search,Drop-off,,High Delivery TAT
+LD-10023,2026-02-28,Aradhana Verma,a78e783e00fcc36d,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-03-04,None
+LD-10024,2026-03-02,Veda Pai,8f30c5d6ebe0d66c,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-03-14,Range Anxiety
+LD-10025,2026-03-03,Manbir Ahluwalia,c3687bce9b98ef3b,Chennai,OMR,Website,Drop-off,,Price/Financing
+LD-10026,2026-03-04,Oeshi Hayer,ba5d4dcc91a8cd46,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-03-11,None
+LD-10027,2026-03-05,William Lanka,bfd63922f5e0b51e,Chennai,Anna Nagar,Direct Walk-in,Test Ride Completed,2026-03-08,None
+LD-10028,2026-03-05,Janya Gaba,e1847b6f01cbc43c,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-03-14,Competitor Purchase
+LD-10029,2026-03-06,Victor Kannan,45e9a668fbac8cd0,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-03-10,None
+LD-10030,2026-03-06,Ryan Bahri,4bd7bb04b595c29d,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-03-09,None
+LD-10031,2026-03-06,Turvi Sachdev,d9c907b7b5f68cba,Hyderabad,Gachibowli,Direct Walk-in,Drop-off,2026-03-07,Competitor Purchase
+LD-10032,2026-03-06,Ayush Gole,1dea175745f053b2,Bangalore,Rajajinagar,Website,Test Ride Completed,2026-03-11,None
+LD-10033,2026-03-07,Hitesh Sant,29e989fd8b1d2bb3,Chennai,Velachery,Google Search,Test Ride Completed,2026-03-12,None
+LD-10034,2026-03-07,Amara Dutta,bb77c845919d619c,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-03-11,None
+LD-10035,2026-03-08,Daksh Memon,64d7b842058460a7,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-03-12,None
+LD-10036,2026-03-08,Omaja Grover,cca72059d4bddc63,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-03-12,None
+LD-10037,2026-03-08,Irya Ray,b3e964775b67e544,Bangalore,Yelahanka,Meta Ads,Drop-off,,Range Anxiety
+LD-10038,2026-03-13,Nilima Narain,4acf35725a519906,Bangalore,Marathahalli,Meta Ads,Drop-off,,Range Anxiety
+LD-10039,2026-03-15,Urmi Dewan,f356ecdb54d66c54,Hyderabad,Gachibowli,Website,Drop-off,,Price/Financing
+LD-10040,2026-03-16,Oni Dubey,a6ca4345e2356f0d,Bangalore,Marathahalli,Website,Drop-off,,Price/Financing
+LD-10041,2026-03-16,Charvi Dara,81889b94f46fa3d7,Bangalore,Marathahalli,Google Search,Drop-off,2026-03-27,High Delivery TAT
+LD-10042,2026-03-18,Pranit Kala,5c4cead23af02f9b,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-03-22,None
+LD-10043,2026-03-18,Balveer More,88f9b8a893f80c7a,Bangalore,Marathahalli,Google Search,Drop-off,,Price/Financing
+LD-10044,2026-03-22,Simon Bail,3230ce8e04aad92f,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-04-02,None
+LD-10045,2026-03-22,Shravya Singhal,754e421674bbf4b9,Hyderabad,Gachibowli,Meta Ads,Drop-off,,Competitor Purchase
+LD-10046,2026-03-23,Simon Pant,47ea581deb8011c8,Chennai,OMR,Meta Ads,Test Ride Completed,2026-03-29,None
+LD-10047,2026-03-23,Ekapad Walia,79ab7fd77835152d,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-03-28,None
+LD-10048,2026-03-24,Anirudh Kunda,a1a3a00802fc8555,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-03-26,None
+LD-10049,2026-03-24,Suhani Chakrabarti,323c6883bede7d68,Bangalore,Rajajinagar,Website,Test Ride Completed,2026-03-29,None
+LD-10050,2026-03-25,Triya Kumar,a6ac6fa8aae08737,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-03-26,None
+LD-10051,2026-03-26,Kamala Biswas,ff64f78a370c6b37,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-03-27,None
+LD-10052,2026-03-26,Gaurang Sarkar,10cc13b07e20f9cf,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-03-30,None
+LD-10053,2026-03-28,Jairaj Balakrishnan,e87822d5176ff56d,Bangalore,HSR Layout,Meta Ads,Drop-off,,Competitor Purchase
+LD-10054,2026-03-29,Liam Koshy,30b02cb209e1269d,Bangalore,Rajajinagar,Website,Drop-off,2026-04-01,Range Anxiety
+LD-10055,2026-03-29,Barkha Setty,0be9225840bf79f6,Hyderabad,Kukatpally,Meta Ads,Drop-off,,High Delivery TAT
+LD-10056,2026-03-30,Quincy Biswas,47e3ed9b999b15b2,Chennai,OMR,Meta Ads,Test Ride Completed,2026-04-03,None
+LD-10057,2026-04-01,Manthan Modi,1605a0afa182edea,Hyderabad,Kukatpally,Meta Ads,Test Ride Completed,2026-04-03,None
+LD-10058,2026-04-01,Pushti Mody,cc6e81895196ef86,Chennai,Anna Nagar,Direct Walk-in,Test Ride Completed,2026-04-03,None
+LD-10059,2026-04-01,Farhan Randhawa,4c8ddacbab84222c,Hyderabad,Kukatpally,Meta Ads,Drop-off,2026-04-03,Range Anxiety
+LD-10060,2026-04-01,Vivaan Walla,b913c3bafa33a1ee,Hyderabad,Gachibowli,Website,Drop-off,,High Delivery TAT
+LD-10061,2026-04-02,Shravya Palla,096d2e04d0b4c228,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-04-09,None
+LD-10062,2026-04-02,Mohini Narasimhan,5fe1cd992f6e293d,Bangalore,Rajajinagar,Google Search,Drop-off,2026-04-08,Competitor Purchase
+LD-10063,2026-04-02,Girik Khalsa,6259f13dcff1a2d5,Hyderabad,Kukatpally,Google Search,Test Ride Completed,2026-04-05,None
+LD-10064,2026-04-03,Viraj Tiwari,80cbd6264da6eca4,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-04-05,None
+LD-10065,2026-04-03,Inaya Mody,2b89a05508fdeba1,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-04-08,None
+LD-10066,2026-04-04,Aadhya Andra,ea54f847003ccae5,Hyderabad,Kukatpally,Website,Drop-off,,Price/Financing
+LD-10067,2026-04-04,William Maharaj,ea2d0213730546b7,Bangalore,Marathahalli,Website,Drop-off,2026-04-11,High Delivery TAT
+LD-10068,2026-04-05,Madhavi Lanka,32ffb48383330dbe,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-04-10,None
+LD-10069,2026-04-06,Mohammed Subramaniam,b0cc979995617cbc,Bangalore,HSR Layout,Website,Test Ride Completed,2026-04-13,None
+LD-10070,2026-04-06,Tanveer Vala,52aae9cb0d6b48b6,Bangalore,Marathahalli,Google Search,Drop-off,,High Delivery TAT
+LD-10071,2026-04-07,Naksh Agate,28d4553635e2c533,Bangalore,Rajajinagar,Meta Ads,Drop-off,2026-04-14,Price/Financing
+LD-10072,2026-04-07,Diya Rattan,cc96dfb795992ecf,Chennai,Anna Nagar,Google Search,Drop-off,2026-04-10,Competitor Purchase
+LD-10073,2026-04-07,David Seshadri,91b466623e290da8,Bangalore,Marathahalli,Direct Walk-in,Drop-off,,Competitor Purchase
+LD-10074,2026-04-07,Ojasvi Gill,01c2d1e7bada515d,Bangalore,Rajajinagar,Website,Test Ride Completed,2026-04-08,None
+LD-10075,2026-04-07,Hritik Kaur,fd611a751b55e219,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-04-14,None
+LD-10076,2026-04-08,Fariq Kaul,66a309cc48f943ec,Bangalore,HSR Layout,Website,Test Ride Completed,2026-04-14,None
+LD-10077,2026-04-09,Bahadurjit Patla,dc8fd0d7c5d26ae3,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-04-14,None
+LD-10078,2026-04-10,Pavani Contractor,a5267b4a5f0f6032,Chennai,Velachery,Google Search,Drop-off,,Range Anxiety
+LD-10079,2026-04-10,Isha Kadakia,e4f4d40ee61bf839,Bangalore,Marathahalli,Website,Drop-off,,Price/Financing
+LD-10080,2026-04-12,Girik Keer,5246b87feb5accb1,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-04-13,None
+LD-10081,2026-04-12,Farhan Raja,95ab251b3f62b16d,Chennai,OMR,Direct Walk-in,Drop-off,2026-04-15,Price/Financing
+LD-10082,2026-04-13,Ishaan Shenoy,f01ca0f272c20077,Bangalore,Marathahalli,Google Search,Drop-off,,High Delivery TAT
+LD-10083,2026-04-14,Brinda Date,bd353adf6a959f19,Hyderabad,Gachibowli,Meta Ads,Test Ride Completed,2026-04-21,None
+LD-10084,2026-04-14,Vansha Thakkar,4016c5de7373332a,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-04-20,None
+LD-10085,2026-04-14,Abeer Golla,b62f32336e988e57,Chennai,Velachery,Google Search,Test Ride Completed,2026-04-20,None
+LD-10086,2026-04-15,Neha Magar,e64e6b9f2cae05b1,Bangalore,Marathahalli,Website,Test Ride Completed,2026-04-29,None
+LD-10087,2026-04-15,Odika Nori,7172f07af7a34098,Bangalore,Marathahalli,Google Search,Test Ride Completed,2026-04-21,None
+LD-10088,2026-04-15,Nidhi Bail,87aac40e494f443c,Hyderabad,Gachibowli,Website,Drop-off,2026-04-21,Range Anxiety
+LD-10089,2026-04-16,Onveer Sharma,bc5c61cda20ab661,Bangalore,Marathahalli,Google Search,Drop-off,2026-04-22,Range Anxiety
+LD-10090,2026-04-18,Chakradev Barad,3e6feb0cb88c227e,Chennai,Anna Nagar,Website,Drop-off,2026-04-23,Competitor Purchase
+LD-10091,2026-04-18,Yatin Baral,4d359fa624808775,Hyderabad,Kukatpally,Website,Drop-off,2026-04-19,Price/Financing
+LD-10092,2026-04-18,Ishwar Mallick,0e73ade070bbd3f1,Hyderabad,Kukatpally,Google Search,Drop-off,,Range Anxiety
+LD-10093,2026-04-19,Vinaya Kanda,299e210bc46b247a,Bangalore,Marathahalli,Website,Drop-off,2026-04-23,High Delivery TAT
+LD-10094,2026-04-20,Caleb Iyengar,a43e3eeb45d2710d,Chennai,OMR,Google Search,Test Ride Completed,2026-04-24,None
+LD-10095,2026-04-21,Gabriel Mallick,315bf2e193d1aded,Chennai,Velachery,Google Search,Drop-off,,Competitor Purchase
+LD-10096,2026-04-21,Varenya Ratti,532585e4e87ce8b0,Chennai,OMR,Meta Ads,Drop-off,,Range Anxiety
+LD-10097,2026-04-22,Madhavi Singhal,f875074b17dfc5a1,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-04-27,None
+LD-10098,2026-04-25,Prisha Andra,d6597c370b1d94d0,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-05-02,None
+LD-10099,2026-04-25,Nitara Bakshi,d230926a810c8ac3,Bangalore,HSR Layout,Meta Ads,Drop-off,2026-04-28,Price/Financing
+LD-10100,2026-04-25,Diya Mukherjee,0623c25414c32429,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-04-28,None
+LD-10101,2026-04-25,Hamsini Contractor,a5edef29327f4596,Chennai,Anna Nagar,Direct Walk-in,Test Ride Completed,2026-04-27,None
+LD-10102,2026-04-26,Aarnav Mandal,420a9a7326a47ee6,Bangalore,HSR Layout,Direct Walk-in,Drop-off,,Price/Financing
+LD-10103,2026-04-26,Nihal Shere,54610ca5d949ecef,Chennai,OMR,Meta Ads,Test Ride Completed,2026-04-29,None
+LD-10104,2026-04-26,Lajita Chatterjee,6d6f3f94dcdb5d85,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-05-03,None
+LD-10105,2026-04-27,Aahana Pillay,379f711eee0b1fad,Chennai,Anna Nagar,Meta Ads,Drop-off,,Competitor Purchase
+LD-10106,2026-04-28,Anita Nayak,9c90eab53c70155a,Bangalore,Rajajinagar,Meta Ads,Drop-off,2026-04-30,Competitor Purchase
+LD-10107,2026-04-30,Faris Devi,8804839c0ea8ee8d,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-05-01,None
+LD-10108,2026-05-01,Udarsh Bala,c2c53cd9d91d7227,Bangalore,Marathahalli,Google Search,Drop-off,2026-05-12,High Delivery TAT
+LD-10109,2026-05-02,Noah Sibal,565c3726cadb2b56,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-05-08,None
+LD-10110,2026-05-03,Aryan Narang,ab84e6a7f9a0a219,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-05-08,None
+LD-10111,2026-05-04,Chandresh Zachariah,14604f9c700cb095,Bangalore,Marathahalli,Website,Drop-off,,Competitor Purchase
+LD-10112,2026-05-05,Krish Lalla,6944a3a01a22d46d,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-05-08,None
+LD-10113,2026-05-05,Ucchal Srinivas,9e106f484931718b,Bangalore,Rajajinagar,Direct Walk-in,Drop-off,2026-05-08,High Delivery TAT
+LD-10114,2026-05-05,Dev Shetty,b26d336778da1272,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-05-10,None
+LD-10115,2026-05-06,Zinal Yohannan,17ef30ae3b40dd09,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-05-09,None
+LD-10116,2026-05-07,Andrew Patil,e799c7ba260643b7,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-05-16,None
+LD-10117,2026-05-07,Indira Misra,c09d2d3f8efda5b1,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-05-10,None
+LD-10118,2026-05-08,Ekani Cheema,810c0fe6f1b25cde,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-05-15,None
+LD-10119,2026-05-08,Indira Nigam,ef483a9ce977a2b6,Hyderabad,Gachibowli,Meta Ads,Drop-off,2026-05-09,High Delivery TAT
+LD-10120,2026-05-08,Osha Raghavan,094e2ef3daf0e67f,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-05-19,High Delivery TAT
+LD-10121,2026-05-08,Yashodhara Ratta,eab21133d70a3987,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-05-15,None
+LD-10122,2026-05-08,Aryan Maharaj,2c94a8287f15b26a,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-05-14,None
+LD-10123,2026-05-09,William Date,d03fc8b79fe31ffb,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-05-16,None
+LD-10124,2026-05-09,Saumya Mall,0c6e0ac9968ddd58,Bangalore,HSR Layout,Meta Ads,Drop-off,2026-05-10,Price/Financing
+LD-10125,2026-05-10,Ekansh Singh,eb0f07af16e762ba,Hyderabad,Gachibowli,Direct Walk-in,Drop-off,2026-05-12,Competitor Purchase
+LD-10126,2026-05-10,Nirja Patla,93aa8aaae86cebcd,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-05-12,None
+LD-10127,2026-05-11,Hritik Bal,66a6254f2401dd7e,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-05-14,None
+LD-10128,2026-05-12,Samar Lalla,d59c15c579b7dd57,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-05-18,Competitor Purchase
+LD-10129,2026-05-12,Diya Dora,ee65230baa349f9e,Hyderabad,Banjara Hills,Website,Drop-off,2026-05-15,Price/Financing
+LD-10130,2026-05-17,Krisha Saini,17cc82fd49bbe5f7,Hyderabad,Gachibowli,Meta Ads,Test Ride Completed,2026-05-22,None
+LD-10131,2026-05-17,Bhavna Karan,c5595b7f39a943f0,Hyderabad,Gachibowli,Direct Walk-in,Drop-off,2026-05-23,Range Anxiety
+LD-10132,2026-05-17,Zashil Devan,e33adc84db2f5fe6,Bangalore,Yelahanka,Meta Ads,Drop-off,,Price/Financing
+LD-10133,2026-05-17,Ganga Murthy,1f1b64c736c92bf8,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-05-23,None
+LD-10134,2026-05-17,Harshil Dhingra,23d41c9b2c567df0,Hyderabad,Kukatpally,Meta Ads,Test Ride Completed,2026-05-18,None
+LD-10135,2026-05-17,Owen Lanka,290fad313c4cd564,Chennai,OMR,Direct Walk-in,Drop-off,2026-05-24,Range Anxiety
+LD-10136,2026-05-17,Chasmum Issac,02b0572a8d2d6a6f,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-05-21,None
+LD-10137,2026-05-19,Yuvraj Dani,28d6b82b883dc34a,Chennai,Velachery,Direct Walk-in,Drop-off,,Range Anxiety
+LD-10138,2026-05-20,Hritik Swaminathan,8bb2d188abb48835,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-06-02,Price/Financing
+LD-10139,2026-05-20,Neel Iyengar,8353c9f42cb26766,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-05-25,None
+LD-10140,2026-05-21,Riya Sathe,c60792928378e778,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-05-23,None
+LD-10141,2026-05-23,Kritika Brar,63883e6279ba8257,Bangalore,Marathahalli,Google Search,Drop-off,,Competitor Purchase
+LD-10142,2026-05-23,Bhavna Dugar,4bb13892408e6076,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-05-24,None
+LD-10143,2026-05-24,Indira Tripathi,59720eadd7b34ec5,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-05-28,None
+LD-10144,2026-05-24,Pavani Narayanan,75340f12fdd140fe,Bangalore,HSR Layout,Google Search,Drop-off,2026-05-25,Range Anxiety
+LD-10145,2026-05-24,Charvi Dara,bacf06eb24e46459,Hyderabad,Banjara Hills,Direct Walk-in,Drop-off,2026-05-25,Price/Financing
+LD-10146,2026-05-24,Bhavya Rattan,00e1662a410d6fc7,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-05-25,None
+LD-10147,2026-05-25,Lajita Sood,2b939df2a5d5f2cf,Bangalore,Rajajinagar,Meta Ads,Drop-off,,Price/Financing
+LD-10148,2026-05-25,Isaac Patil,9de8fdbaee9da678,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-05-31,None
+LD-10149,2026-05-26,Raksha Buch,4b3390cefdbc3714,Chennai,Anna Nagar,Meta Ads,Drop-off,,Price/Financing
+LD-10150,2026-05-29,Faqid Dixit,ed243f94ffd308e5,Bangalore,HSR Layout,Website,Drop-off,2026-06-04,High Delivery TAT
+LD-10151,2026-05-29,Harish Sarraf,9fa4a496cdcb9d3d,Bangalore,Marathahalli,Google Search,Test Ride Completed,2026-06-09,None
+LD-10152,2026-05-29,Amol Varma,e2e58bb3f10c4095,Hyderabad,Gachibowli,Meta Ads,Drop-off,,Price/Financing
+LD-10153,2026-05-29,Januja Pradhan,22d7282dbf7a63f4,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-06-02,None
+LD-10154,2026-05-30,Dev Choudhry,2e3cddbd3003ccc6,Bangalore,Rajajinagar,Google Search,Drop-off,2026-06-01,Range Anxiety
+LD-10155,2026-05-31,Wazir Naik,35a4a848e5af48a3,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-06-10,None
+LD-10156,2026-05-31,Utkarsh Patel,0ce68e44b4260f3e,Bangalore,Rajajinagar,Direct Walk-in,Drop-off,,Competitor Purchase
+LD-10157,2026-06-01,Noah Sarma,92e10540b6952e8d,Hyderabad,Gachibowli,Meta Ads,Test Ride Completed,2026-06-05,None
+LD-10158,2026-06-01,Eesha Solanki,c196148046239ebb,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-06-03,None
+LD-10159,2026-06-01,Pavani Kanda,b7b70331e6940d9a,Hyderabad,Gachibowli,Google Search,Drop-off,,Range Anxiety
+LD-10160,2026-06-02,Tanay Toor,3f0a3d095d00af2a,Hyderabad,Gachibowli,Meta Ads,Test Ride Completed,2026-06-07,None
+LD-10161,2026-06-02,Aadhya Mann,e8ad6badc2b0703a,Hyderabad,Gachibowli,Meta Ads,Drop-off,,Range Anxiety
+LD-10162,2026-06-02,Dhriti Sanghvi,39c12b30072ee9a0,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-06-05,None
+LD-10163,2026-06-03,Manbir Bhatti,f889dabfbc3ee0d9,Bangalore,Marathahalli,Google Search,Drop-off,,Competitor Purchase
+LD-10164,2026-06-03,Veda Shroff,ac6b6c406cfb6e9a,Chennai,Velachery,Google Search,Drop-off,,Range Anxiety
+LD-10165,2026-06-03,Indira Kanda,1f895048b7c60c10,Bangalore,Yelahanka,Meta Ads,Drop-off,,Price/Financing
+LD-10166,2026-06-05,Megha Atwal,099da4b1d1ce599c,Bangalore,Marathahalli,Website,Test Ride Completed,2026-06-11,None
+LD-10167,2026-06-05,Vaishnavi Bora,2f89a312c4c7b875,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-06-10,None
+LD-10168,2026-06-06,Yashica Rajagopalan,1f457f0a019323f0,Hyderabad,Banjara Hills,Meta Ads,Drop-off,,Range Anxiety
+LD-10169,2026-06-06,Mohammed Gupta,b7292ebcf5d4b968,Chennai,Anna Nagar,Website,Test Ride Completed,2026-06-11,None
+LD-10170,2026-06-07,Bhanumati Sur,3e74e9bd4cdc094c,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-06-08,None
+LD-10171,2026-06-08,Ethan Buch,96fb098db2d1e123,Bangalore,Yelahanka,Website,Drop-off,2026-06-10,Price/Financing
+LD-10172,2026-06-08,Reyansh Mutti,1a37ee1a133809cd,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-06-09,None
+LD-10173,2026-06-08,Lila Rege,4aa4fd840b58fc9d,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-06-13,None
+LD-10174,2026-06-08,Charles Dugal,6deb62e4e664c706,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-06-15,None
+LD-10175,2026-06-08,Forum Sabharwal,cbbfe9779e2058ab,Chennai,OMR,Website,Test Ride Completed,2026-06-10,None
+LD-10176,2026-06-09,Janaki Handa,f62d01b6d8161e6c,Bangalore,Marathahalli,Website,Test Ride Completed,2026-06-13,None
+LD-10177,2026-06-09,Raksha Varughese,8a19058419751744,Chennai,OMR,Google Search,Drop-off,,Range Anxiety
+LD-10178,2026-06-09,Dayita Shenoy,80a72c1ee80c9a8f,Hyderabad,Gachibowli,Website,Drop-off,,Competitor Purchase
+LD-10179,2026-06-09,Avi Ramesh,39540a66f6937190,Bangalore,HSR Layout,Google Search,Drop-off,,Price/Financing
+LD-10180,2026-06-11,Nitesh Raghavan,2e26e4f83086f917,Bangalore,Yelahanka,Meta Ads,Drop-off,,Price/Financing
+LD-10181,2026-06-11,Chaitanya Sarin,f65f111827deb692,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-06-14,None
+LD-10182,2026-06-11,Zayan Kashyap,26b8002fdb7b07c0,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-06-17,None
+LD-10183,2026-06-11,Keya Ranganathan,a7ac0a941f54e763,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-06-12,None
+LD-10184,2026-06-12,Upasna Lanka,27f35f64f40e9a81,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-06-19,None
+LD-10185,2026-06-12,Advik Salvi,2adc12dab1ba2881,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-06-13,None
+LD-10186,2026-06-12,Pallavi Malhotra,20bc69cf1ef582e7,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-06-16,None
+LD-10187,2026-06-13,Aarush Nath,7570c2276ce8c7df,Chennai,Velachery,Meta Ads,Drop-off,2026-06-16,Range Anxiety
+LD-10188,2026-06-14,Devansh Nigam,1112d72072c0e0a6,Hyderabad,Gachibowli,Website,Drop-off,,Range Anxiety
+LD-10189,2026-06-14,Yash Wali,d97a9ab2464dea2e,Chennai,Anna Nagar,Google Search,Test Ride Completed,2026-06-16,None
+LD-10190,2026-06-15,Diya Bora,25fe94a54c9bda9d,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-06-20,None
+LD-10191,2026-06-16,Mitali Majumdar,cdf23643472a5c04,Hyderabad,Kukatpally,Google Search,Test Ride Completed,2026-06-17,None
+LD-10192,2026-06-16,Ayush Batra,bfbab04222ec8b3f,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-06-22,None
+LD-10193,2026-06-16,Warinder Patil,ab243da987a4baf2,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-06-18,None
+LD-10194,2026-06-16,Amol Parikh,ee169d91521f5d81,Bangalore,Yelahanka,Meta Ads,Drop-off,,Price/Financing
+LD-10195,2026-06-17,Mitali Buch,602ae076a8a5cf01,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-06-23,None
+LD-10196,2026-06-17,Kevin Zacharia,ec2258af7ee77e60,Chennai,Anna Nagar,Website,Test Ride Completed,2026-06-18,None
+LD-10197,2026-06-18,Faqid Kibe,0f9c501a33b49bcf,Bangalore,Rajajinagar,Google Search,Drop-off,,Price/Financing
+LD-10198,2026-06-20,Bhavini Bose,f7f3796edcd045f1,Hyderabad,Kukatpally,Google Search,Drop-off,,High Delivery TAT
+LD-10199,2026-06-20,Caleb Verma,a1e3f112dc647507,Bangalore,Rajajinagar,Meta Ads,Drop-off,2026-06-26,Price/Financing
+LD-10200,2026-06-21,Panini Krishna,6f21ebe439f5e641,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-06-26,None
+LD-10201,2026-06-21,Harini Mammen,145c10106cb7aa9b,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-06-26,None
+LD-10202,2026-06-21,Warjas Gaba,084cbd3d1c868d5d,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-06-25,None
+LD-10203,2026-06-22,Alka Wable,33f522679d9d2134,Bangalore,Rajajinagar,Direct Walk-in,Drop-off,2026-06-24,Competitor Purchase
+LD-10204,2026-06-22,Kiaan Shetty,ac5efd2f566693b2,Bangalore,Marathahalli,Direct Walk-in,Drop-off,,Price/Financing
+LD-10205,2026-06-24,Manbir Agate,e5ad649d9d4b21b7,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-06-27,None
+LD-10206,2026-06-24,Arya Sunder,29d6d9220b9bfe03,Chennai,Anna Nagar,Website,Drop-off,,Range Anxiety
+LD-10207,2026-06-24,Owen Choudhary,d67e158670719fbe,Hyderabad,Kukatpally,Meta Ads,Test Ride Completed,2026-06-26,None
+LD-10208,2026-06-25,Vasudha Chhabra,07a8365a22678de3,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-06-26,None
+LD-10209,2026-06-26,Krishna Shah,a9c7f879fecf310f,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-07-02,Competitor Purchase
+LD-10210,2026-06-26,Karan Aurora,d0ff1208d755a92f,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-07-03,None
+LD-10211,2026-06-26,Chandran Bumb,e1134fc4258097bd,Bangalore,HSR Layout,Website,Drop-off,2026-07-03,Price/Financing
+LD-10212,2026-06-26,Vyanjana Chand,c42fcde0756213af,Chennai,Anna Nagar,Meta Ads,Test Ride Completed,2026-07-02,None
+LD-10213,2026-06-28,Ayushman Chander,87292bb1f656bb87,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-07-04,None
+LD-10214,2026-06-28,Ayaan D’Alia,f4e388c2f1f53ba7,Chennai,Velachery,Meta Ads,Test Ride Completed,2026-06-29,None
+LD-10215,2026-06-29,Osha Ramachandran,5eee97e6be8ce440,Hyderabad,Kukatpally,Meta Ads,Test Ride Completed,2026-07-05,None
+LD-10216,2026-06-29,Hritik Palla,3ff008e244b9f208,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-07-06,None
+LD-10217,2026-06-29,Anvi Anand,7bac4c435da5aaeb,Chennai,OMR,Website,Test Ride Completed,2026-07-06,None
+LD-10218,2026-06-29,Lakshmi Parmer,5ccf18d209edc559,Hyderabad,Kukatpally,Website,Drop-off,,High Delivery TAT
+LD-10219,2026-06-30,Damyanti Mani,5355099eaf31e17e,Hyderabad,Kukatpally,Meta Ads,Test Ride Completed,2026-07-02,None
+LD-10220,2026-07-01,Jhalak Sastry,4eb4cdaf079239f4,Bangalore,Yelahanka,Website,Drop-off,,Price/Financing
+LD-10221,2026-07-01,Sachi Mane,def40a0ce5614e39,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-07-03,None
+LD-10222,2026-07-01,Kashvi Edwin,3c486cadc98f30be,Bangalore,Rajajinagar,Website,Test Ride Completed,2026-07-03,None
+LD-10223,2026-07-01,Laksh Barad,dbd11d350f3c04e0,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-07-05,None
+LD-10224,2026-07-01,Dayamai Nori,b50561757f4242dc,Bangalore,Yelahanka,Meta Ads,Drop-off,,Price/Financing
+LD-10225,2026-07-01,Balendra Biswas,b5f3807a5710e8f1,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-07-06,None
+LD-10226,2026-07-02,Aishani Bumb,c4a6cef38024d5ab,Bangalore,Marathahalli,Meta Ads,Drop-off,,Range Anxiety
+LD-10227,2026-07-02,Chavvi Maharaj,61e87bd898fa916a,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-07-06,None
+LD-10228,2026-07-03,Upkaar Virk,54c82c6706eb664d,Hyderabad,Kukatpally,Website,Test Ride Completed,2026-07-05,None
+LD-10229,2026-07-03,Arya Shere,5b81b1049cd7fb96,Bangalore,Marathahalli,Google Search,Test Ride Completed,2026-07-15,None
+LD-10230,2026-07-03,Inaya Kapur,de258d34a73693ac,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-07-05,None
+LD-10231,2026-07-04,Pranit Garde,c4e297ba3b4a3a2e,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-07-09,None
+LD-10232,2026-07-04,Girik Sampath,8f60ae89c2b346b8,Chennai,Velachery,Meta Ads,Drop-off,,Competitor Purchase
+LD-10233,2026-07-05,Chakrika Datta,0e1b45c475d04a0c,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-07-08,None
+LD-10234,2026-07-05,Riya Pai,1255e30ddbeff56d,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-07-08,None
+LD-10235,2026-07-06,Amrita Naidu,97ad49e090d86fe9,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-07-12,None
+LD-10236,2026-07-06,Rajeshri Chand,c55f119b4182c8fc,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-07-18,Competitor Purchase
+LD-10237,2026-07-06,Lajita Walia,314bf06c7b30c11c,Bangalore,Marathahalli,Website,Test Ride Completed,2026-07-16,None
+LD-10238,2026-07-07,Abha Raghavan,003ea358ef0a4cf2,Bangalore,HSR Layout,Meta Ads,Drop-off,,Price/Financing
+LD-10239,2026-07-07,Darsh Rau,80a06b168fd6fd63,Hyderabad,Kukatpally,Meta Ads,Drop-off,,Competitor Purchase
+LD-10240,2026-07-07,Saanvi Samra,75966570dadf8ef4,Chennai,OMR,Meta Ads,Test Ride Completed,2026-07-10,None
+LD-10241,2026-07-07,Ekaraj Majumdar,da279087a44d9505,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-07-17,None
+LD-10242,2026-07-07,Aarav Pandit,9990916793d45802,Bangalore,Yelahanka,Google Search,Drop-off,2026-07-12,Competitor Purchase
+LD-10243,2026-07-08,Ekbal Bhasin,8751a403652cb50a,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-07-09,None
+LD-10244,2026-07-08,Charvi Ravi,a324d5138735d09a,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-07-13,None
+LD-10245,2026-07-09,Ikbal Saraf,40d2ff0187c3d0a5,Chennai,Velachery,Google Search,Drop-off,,Range Anxiety
+LD-10246,2026-07-10,Lajita Mall,add30cc53f825822,Chennai,OMR,Website,Test Ride Completed,2026-07-16,None
+LD-10247,2026-07-10,Jeet Sidhu,2b4fe8360f01d171,Bangalore,HSR Layout,Google Search,Drop-off,2026-07-17,Price/Financing
+LD-10248,2026-07-10,Anirudh Sharaf,11d9132b77209e92,Chennai,OMR,Meta Ads,Test Ride Completed,2026-07-12,None
+LD-10249,2026-07-10,Baghyawati Raja,a5901b0f486323ce,Chennai,Anna Nagar,Google Search,Test Ride Completed,2026-07-14,None
+LD-10250,2026-07-11,Mitesh Gaba,2a1e04e179b8d457,Bangalore,Rajajinagar,Meta Ads,Drop-off,,Range Anxiety
+LD-10251,2026-07-11,Forum Chandra,340bfa02ab0586d6,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-07-13,None
+LD-10252,2026-07-11,Dayamai Singh,3d555807f2c2e8d6,Bangalore,HSR Layout,Website,Test Ride Completed,2026-07-18,None
+LD-10253,2026-07-12,Qushi Nagy,8c18a334cd980858,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-07-17,None
+LD-10254,2026-07-12,Nakul Sarma,50a5e75d08554eb1,Bangalore,HSR Layout,Meta Ads,Drop-off,2026-07-13,Competitor Purchase
+LD-10255,2026-07-12,Lopa Nayar,7bee17b3b65df3ab,Chennai,Velachery,Website,Test Ride Completed,2026-07-19,None
+LD-10256,2026-07-12,Urvi Bhavsar,6c93b490408cde46,Bangalore,Marathahalli,Google Search,Drop-off,2026-07-18,Competitor Purchase
+LD-10257,2026-07-14,Benjamin Sengupta,6677599303b30640,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-07-20,None
+LD-10258,2026-07-15,Vihaan Rajagopal,3e5a88c4c80531e8,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-07-22,None
+LD-10259,2026-07-15,Nikita Chander,c9b3272b40baa40f,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-07-19,None
+LD-10260,2026-07-16,Frederick Khurana,e03cc012f4d9800f,Chennai,Velachery,Meta Ads,Drop-off,,Competitor Purchase
+LD-10261,2026-07-16,Chasmum Atwal,fe0cf91bc1274e13,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-07-27,None
+LD-10262,2026-07-17,Dakshesh Trivedi,f58dfc4aa513f791,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-07-22,None
+LD-10263,2026-07-18,Aadhya Prasad,f0ba389333594369,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-07-22,None
+LD-10264,2026-07-18,Gaurangi Deol,ced2f3415ccda2d1,Bangalore,HSR Layout,Website,Test Ride Completed,2026-07-23,None
+LD-10265,2026-07-18,Dhriti Sane,63ca31df4d2c8c7f,Chennai,OMR,Meta Ads,Drop-off,,Competitor Purchase
+LD-10266,2026-07-18,Tanay Rattan,ca16b6a6cd8a9911,Hyderabad,Kukatpally,Meta Ads,Drop-off,,Range Anxiety
+LD-10267,2026-07-18,Kala Divan,dac31be7a5d9587f,Bangalore,HSR Layout,Website,Test Ride Completed,2026-07-21,None
+LD-10268,2026-07-18,Mekhala Pau,b29d70a7140e4966,Bangalore,Yelahanka,Meta Ads,Drop-off,,Price/Financing
+LD-10269,2026-07-19,Tristan Iyengar,5718ebfa0522361c,Bangalore,Marathahalli,Google Search,Drop-off,2026-07-28,High Delivery TAT
+LD-10270,2026-07-19,Vivaan Roy,6c728b04464cb284,Bangalore,Marathahalli,Website,Drop-off,2026-07-26,High Delivery TAT
+LD-10271,2026-07-20,Anusha Bath,df8c2d2e45c3c4fb,Bangalore,Yelahanka,Meta Ads,Drop-off,,Range Anxiety
+LD-10272,2026-07-20,Jai Kota,1a0cb3b2ec24e0a8,Chennai,OMR,Website,Test Ride Completed,2026-07-25,None
+LD-10273,2026-07-20,Hardik Contractor,15c8db8c2e76d0ea,Bangalore,Yelahanka,Meta Ads,Drop-off,2026-07-23,Price/Financing
+LD-10274,2026-07-20,Chakradev Kannan,23f8548d31d572f4,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-07-21,None
+LD-10275,2026-07-20,Udant Bajwa,ed570b0476ae1f0a,Chennai,Anna Nagar,Meta Ads,Test Ride Completed,2026-07-22,None
+LD-10276,2026-07-21,Wahab Yogi,8f2404c09d8db10d,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-07-28,None
+LD-10277,2026-07-22,Shravya Savant,98ef87efa2dff3e8,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-07-27,None
+LD-10278,2026-07-22,Banjeet Balasubramanian,90f9c3b3b4308fb5,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-07-27,None
+LD-10279,2026-07-22,Charles Natt,d92cc990829de53a,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-07-26,None
+LD-10280,2026-07-22,Nathaniel Sami,4bbdc4dfc364853f,Bangalore,Marathahalli,Meta Ads,Drop-off,,Competitor Purchase
+LD-10281,2026-07-22,Riya Sachdeva,d3baec2a4cdbfefb,Bangalore,Marathahalli,Website,Drop-off,,Price/Financing
+LD-10282,2026-07-22,Siddharth Sha,06f3206af8169ecd,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-07-24,None
+LD-10283,2026-07-22,Radha Chaudhari,6fb1f271025257aa,Bangalore,Marathahalli,Website,Test Ride Completed,2026-08-05,None
+LD-10284,2026-07-22,Yagnesh Sarin,8a69d88339f4548a,Chennai,Velachery,Website,Test Ride Completed,2026-07-27,None
+LD-10285,2026-07-23,Ishwar Gade,4d6cdf2d7e659d5b,Chennai,Velachery,Meta Ads,Drop-off,2026-07-28,High Delivery TAT
+LD-10286,2026-07-23,Aarini Subramaniam,d8cbfffb01a2fcb5,Chennai,OMR,Meta Ads,Test Ride Completed,2026-07-24,None
+LD-10287,2026-07-24,Lekha Gupta,4cdea5b424fd08a7,Chennai,Velachery,Google Search,Test Ride Completed,2026-07-29,None
+LD-10288,2026-07-24,Wahab Raval,fbc5c2942e13cf0b,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-07-31,None
+LD-10289,2026-07-24,Bhavika Sampath,60a54971cb9adf2e,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-07-30,None
+LD-10290,2026-07-24,Ekaraj Mallick,dd075ec055eddd17,Chennai,OMR,Google Search,Test Ride Completed,2026-07-26,None
+LD-10291,2026-07-25,Devansh Soni,3c1f4a30ac33d41a,Chennai,OMR,Website,Test Ride Completed,2026-07-26,None
+LD-10292,2026-07-25,Shivani Lad,cc30ffc2b770d012,Chennai,OMR,Website,Drop-off,,Price/Financing
+LD-10293,2026-07-25,Yasti Solanki,fbdcb385deddc504,Bangalore,Yelahanka,Website,Test Ride Completed,2026-08-01,None
+LD-10294,2026-07-25,Libni Bumb,bbb83d951ba6b46a,Bangalore,Yelahanka,Direct Walk-in,Drop-off,2026-07-29,Price/Financing
+LD-10295,2026-07-26,Gopal Pradhan,187d6e7100868e07,Bangalore,HSR Layout,Meta Ads,Drop-off,,Price/Financing
+LD-10296,2026-07-26,Christopher Amble,983d3a08c1175348,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-08-01,High Delivery TAT
+LD-10297,2026-07-26,Harinakshi Kant,18ef1968bb9fcfc9,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-07-31,None
+LD-10298,2026-07-27,Harini Tripathi,243e5dffca80df1c,Bangalore,Yelahanka,Direct Walk-in,Drop-off,2026-07-28,Competitor Purchase
+LD-10299,2026-07-27,Devika Rastogi,73f207d96f6bfa5b,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-08-01,None
+LD-10300,2026-07-27,Unni Bhagat,9fe7a455e9f2a466,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-08-03,None
+LD-10301,2026-07-27,Parth Singhal,9556f39888f210b6,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-08-01,None
+LD-10302,2026-07-28,Vritti Sem,e7bdda45b8cea181,Bangalore,Yelahanka,Direct Walk-in,Drop-off,,Range Anxiety
+LD-10303,2026-07-28,Dipta Bhandari,98d0c938f8c8b491,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-07-31,None
+LD-10304,2026-07-28,Bhavani Chacko,0ceac76991befee7,Hyderabad,Gachibowli,Google Search,Test Ride Completed,2026-07-29,None
+LD-10305,2026-07-29,Michael Dutta,565b132d5161653a,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-08-04,None
+LD-10306,2026-07-29,Jonathan Sama,77b0f8a96afdb701,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-08-02,None
+LD-10307,2026-07-29,Zaid Dara,b2399b9bb68e951b,Hyderabad,Gachibowli,Meta Ads,Test Ride Completed,2026-08-01,None
+LD-10308,2026-07-29,Zarna Shetty,f5036376065e99c4,Bangalore,Marathahalli,Website,Test Ride Completed,2026-08-07,None
+LD-10309,2026-07-29,Hardik Johal,699a2dbf86eb7b78,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-08-04,None
+LD-10310,2026-07-29,Arunima Dugal,cfd018c8df1a510f,Chennai,Anna Nagar,Meta Ads,Test Ride Completed,2026-08-04,None
+LD-10311,2026-07-29,Vrishti Dixit,809502d4ef40df4c,Chennai,OMR,Website,Test Ride Completed,2026-08-04,None
+LD-10312,2026-07-29,Faqid Savant,b1fca4b69aba93d1,Hyderabad,Gachibowli,Google Search,Drop-off,2026-07-31,Price/Financing
+LD-10313,2026-07-30,Faras Mangal,e568632893c5a4a4,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-08-01,None
+LD-10314,2026-07-30,Wishi Sathe,b64a750f55360be2,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-08-08,None
+LD-10315,2026-07-31,Ati Bali,c10a37ec01e17497,Chennai,OMR,Meta Ads,Drop-off,,Price/Financing
+LD-10316,2026-07-31,Upasna Srinivas,16d8db778795f4aa,Chennai,Velachery,Website,Test Ride Completed,2026-08-01,None
+LD-10317,2026-07-31,Mason Wable,014c1aa68a7d80ec,Bangalore,HSR Layout,Website,Drop-off,2026-08-05,Price/Financing
+LD-10318,2026-07-31,Tanmayi Dhillon,8e7e18dc3f2007a8,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-08-03,None
+LD-10319,2026-08-02,Balveer Kota,de136190da87a010,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-08-12,None
+LD-10320,2026-08-03,Ethan Bera,599167611d99b0d8,Bangalore,Rajajinagar,Meta Ads,Drop-off,,Range Anxiety
+LD-10321,2026-08-03,Gayathri Chaudry,72f5ed92cd6b4336,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-08-07,None
+LD-10322,2026-08-04,Chaitaly Setty,d627ae66ca16c719,Bangalore,Marathahalli,Meta Ads,Drop-off,,Range Anxiety
+LD-10323,2026-08-04,Aarush Lall,a599e2dd8b72e480,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-08-06,None
+LD-10324,2026-08-05,Kabir Soman,4fb0ef21657704af,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-08-11,None
+LD-10325,2026-08-06,Om Bose,2c937d4557f88165,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-08-08,None
+LD-10326,2026-08-07,Harshil Arora,b2bdb84034ecc9e5,Hyderabad,Gachibowli,Direct Walk-in,Drop-off,2026-08-10,Price/Financing
+LD-10327,2026-08-07,Gayathri Balakrishnan,7b5be8c4995046f6,Chennai,Velachery,Google Search,Drop-off,,Price/Financing
+LD-10328,2026-08-08,Radhika Dugar,4e61a7a8f1b194bd,Bangalore,HSR Layout,Google Search,Drop-off,,Range Anxiety
+LD-10329,2026-08-08,Reva Viswanathan,661ec66dc357fce3,Bangalore,Marathahalli,Meta Ads,Drop-off,,Price/Financing
+LD-10330,2026-08-09,Samar Loke,8d9a1402b0d4fc99,Hyderabad,Gachibowli,Google Search,Test Ride Completed,2026-08-10,None
+LD-10331,2026-08-09,Hemangini Lalla,2331323bb41a952e,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-08-18,None
+LD-10332,2026-08-09,Dipta Sarin,8ea9f6d953952595,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-08-16,None
+LD-10333,2026-08-09,Rushil Saini,68b23ea75f0ecdc1,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-08-16,None
+LD-10334,2026-08-10,Patrick Vig,1f9ea8fc5b9f6933,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-08-23,High Delivery TAT
+LD-10335,2026-08-10,Lajita Nadig,faa6acf1a63eea8a,Hyderabad,Kukatpally,Meta Ads,Drop-off,,Range Anxiety
+LD-10336,2026-08-10,Hemani Khosla,0d4a2ecdcfc48694,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-08-19,None
+LD-10337,2026-08-11,Qushi Seth,ea1d8b1b7d56c695,Hyderabad,Kukatpally,Meta Ads,Drop-off,,Price/Financing
+LD-10338,2026-08-11,Balhaar Date,36e6d16a67482df0,Bangalore,Marathahalli,Google Search,Test Ride Completed,2026-08-21,None
+LD-10339,2026-08-11,Ekbal Garg,d95ed3241dcc71d7,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-08-18,None
+LD-10340,2026-08-11,Arunima Golla,2e66347c002857c8,Chennai,OMR,Website,Drop-off,,Price/Financing
+LD-10341,2026-08-11,Qushi Gill,f5f3f65b54648e9f,Bangalore,HSR Layout,Direct Walk-in,Drop-off,2026-08-12,Competitor Purchase
+LD-10342,2026-08-11,Hemani Sani,9a659ddaf0b1ee9d,Bangalore,Marathahalli,Website,Test Ride Completed,2026-08-16,None
+LD-10343,2026-08-12,Advay Contractor,7a3aefe7d5443d09,Bangalore,Yelahanka,Website,Test Ride Completed,2026-08-14,None
+LD-10344,2026-08-12,Rachana Naidu,986becbd40938fe1,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-08-14,None
+LD-10345,2026-08-13,Jalsa Bir,06d807f09518d659,Bangalore,Yelahanka,Website,Test Ride Completed,2026-08-17,None
+LD-10346,2026-08-13,Harita Dugar,fe1804372e14aa48,Bangalore,HSR Layout,Google Search,Drop-off,2026-08-16,Competitor Purchase
+LD-10347,2026-08-13,Oni Yohannan,2e9534d05e18a3e9,Hyderabad,Gachibowli,Google Search,Drop-off,2026-08-15,Range Anxiety
+LD-10348,2026-08-15,Watika Mangat,9b6373333a631e50,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-08-17,None
+LD-10349,2026-08-15,Ucchal Sen,d4c87941a06f326a,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-08-21,None
+LD-10350,2026-08-16,Rayaan Trivedi,430a86b5403e1b89,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-08-18,None
+LD-10351,2026-08-17,Zayan Behl,76ab512b2fcd0032,Bangalore,Rajajinagar,Meta Ads,Drop-off,,Competitor Purchase
+LD-10352,2026-08-17,Ansh Luthra,3698584d8a589093,Bangalore,Yelahanka,Website,Test Ride Completed,2026-08-20,None
+LD-10353,2026-08-18,Kai Chad,a0e07924e47766b1,Chennai,Velachery,Website,Test Ride Completed,2026-08-25,None
+LD-10354,2026-08-18,Upadhriti Wadhwa,3b18ebc80ef4f5be,Hyderabad,Kukatpally,Website,Drop-off,,Price/Financing
+LD-10355,2026-08-19,Tanish Bhatt,2cef98db35ec7602,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-08-23,None
+LD-10356,2026-08-19,Umang Issac,d5acf9a1306a0b1b,Hyderabad,Banjara Hills,Website,Drop-off,,Range Anxiety
+LD-10357,2026-08-19,Nathan Mukhopadhyay,8e26cbbfb836fcc3,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-08-22,None
+LD-10358,2026-08-19,Teerth Bhardwaj,e578d9892cdcee6d,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-08-26,None
+LD-10359,2026-08-20,Gaurangi Sabharwal,545805fb509627b6,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-08-26,None
+LD-10360,2026-08-20,Adweta Edwin,4b2945cc7060ebf6,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-08-27,None
+LD-10361,2026-08-20,Pushti Bal,d540fb7535cf24bb,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-08-27,Range Anxiety
+LD-10362,2026-08-21,Charvi Kakar,79c3333d448f1d20,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-08-26,None
+LD-10363,2026-08-21,Ekiya Suresh,a5f7bf22961249eb,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-08-26,None
+LD-10364,2026-08-22,Nikita Narayanan,7d5e7a5cafec42ce,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-08-29,None
+LD-10365,2026-08-23,Aryan Batra,c6d2e80f4de5afc0,Bangalore,Rajajinagar,Website,Drop-off,2026-08-28,Price/Financing
+LD-10366,2026-08-23,Tripti Dua,d19f71384120cfb6,Chennai,Anna Nagar,Google Search,Test Ride Completed,2026-08-30,None
+LD-10367,2026-08-23,Indira Chawla,7b0ee2663c81109f,Chennai,Anna Nagar,Meta Ads,Drop-off,2026-08-30,Price/Financing
+LD-10368,2026-08-23,Jyoti Solanki,009b95cf61c37314,Hyderabad,Gachibowli,Google Search,Drop-off,2026-08-27,Range Anxiety
+LD-10369,2026-08-24,Warda Ratta,0a218482d1e84b1d,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-08-28,None
+LD-10370,2026-08-25,Upma Bahl,4d71073c99a4d809,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-08-28,None
+LD-10371,2026-08-25,Inaya Mukherjee,956b2c2cad216a19,Bangalore,Marathahalli,Website,Drop-off,2026-09-08,Range Anxiety
+LD-10372,2026-08-26,Teerth Sawhney,f3bacce7f9e4b451,Bangalore,HSR Layout,Meta Ads,Drop-off,,Price/Financing
+LD-10373,2026-08-26,Oviya Krishnan,7c25e76931a44fcb,Bangalore,Marathahalli,Website,Drop-off,2026-08-30,Competitor Purchase
+LD-10374,2026-08-27,Kamya Chauhan,09321a58d2cba0ab,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-09-05,High Delivery TAT
+LD-10375,2026-08-28,Waida D’Alia,a2d92aa8681fadc8,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-08-30,None
+LD-10376,2026-08-28,Irya Sampath,03147e3cf85dcbed,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-09-04,None
+LD-10377,2026-08-28,Azaan Chand,3becb279d8fc9caa,Bangalore,Marathahalli,Google Search,Test Ride Completed,2026-09-11,None
+LD-10378,2026-08-28,Bachittar Kata,dfded433d0a31f43,Bangalore,Rajajinagar,Website,Test Ride Completed,2026-08-31,None
+LD-10379,2026-08-28,Indrajit Mani,c132323a1e91a3be,Bangalore,Marathahalli,Website,Drop-off,2026-09-09,High Delivery TAT
+LD-10380,2026-08-28,Tanmayi Aurora,ee0ccd94a370b32c,Bangalore,Yelahanka,Google Search,Test Ride Scheduled,2026-09-01,None
+LD-10381,2026-08-28,Januja Sankar,bf93e2d77a33203b,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-09-02,High Delivery TAT
+LD-10382,2026-08-29,Frado Mander,4d267616a8ef0a7c,Bangalore,HSR Layout,Website,Test Ride Completed,2026-08-30,None
+LD-10383,2026-08-29,Baljiwan Bhandari,e72c37008d063a4a,Chennai,Velachery,Google Search,Test Ride Scheduled,2026-09-05,None
+LD-10384,2026-08-29,Yagnesh Shetty,c915a75d01a12ed8,Chennai,OMR,Direct Walk-in,Drop-off,,Price/Financing
+LD-10385,2026-08-30,Ranveer Yadav,74c552699e6dca01,Bangalore,Yelahanka,Google Search,Enquiry,,None
+LD-10386,2026-08-30,Bhavna Sarma,d1b582122aee4a35,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-09-03,None
+LD-10387,2026-08-30,Yashica Issac,ccf0173b5b436d96,Chennai,OMR,Google Search,Test Ride Completed,2026-09-05,None
+LD-10388,2026-08-30,Girindra Chatterjee,d2cd37d91dc78328,Hyderabad,Gachibowli,Website,Test Ride Scheduled,2026-09-01,None
+LD-10389,2026-08-30,Oeshi Bera,89bfe55b17a21c75,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-08-31,None
+LD-10390,2026-08-30,Omisha Mann,1d24e65a319ece75,Bangalore,Yelahanka,Meta Ads,Enquiry,,None
+LD-10391,2026-08-31,Niharika Sunder,7182ae2344af36b5,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-09-05,None
+LD-10392,2026-08-31,Ojasvi Bhatia,93f1685644f312f9,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-09-04,None
+LD-10393,2026-08-31,Xiti Pandya,e0e62ab958cd6dbd,Bangalore,Marathahalli,Website,Test Ride Completed,2026-09-04,None
+LD-10394,2026-08-31,Tarak Kaul,a747f9ac975976ab,Bangalore,Marathahalli,Direct Walk-in,Test Ride Scheduled,2026-09-04,None
+LD-10395,2026-08-31,Krisha Narasimhan,a08ae12601627a30,Bangalore,Yelahanka,Direct Walk-in,Drop-off,2026-09-01,High Delivery TAT
+LD-10396,2026-09-01,Tara Dhar,978872aa9640a707,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-09-05,None
+LD-10397,2026-09-01,Jason Sha,dadf46c2b51726b0,Hyderabad,Banjara Hills,Google Search,Test Ride Completed,2026-09-08,None
+LD-10398,2026-09-01,Janaki Varghese,6284fc40fa977333,Chennai,Velachery,Google Search,Test Ride Completed,2026-09-05,None
+LD-10399,2026-09-02,Mohini Sagar,96de4cf8c12501c1,Chennai,Anna Nagar,Google Search,Drop-off,2026-09-06,Competitor Purchase
+LD-10400,2026-09-02,Hredhaan Dugal,4d682db95e5b0f0e,Hyderabad,Banjara Hills,Meta Ads,Drop-off,,Range Anxiety
+LD-10401,2026-09-02,Frederick Chander,5fa3d383c3400efa,Bangalore,Marathahalli,Direct Walk-in,Drop-off,2026-09-12,Price/Financing
+LD-10402,2026-09-02,Nandini Boase,3ab647c42fbbf7a9,Chennai,OMR,Meta Ads,Drop-off,2026-09-09,Range Anxiety
+LD-10403,2026-09-02,Qasim Handa,6d8833a07a893a3f,Chennai,OMR,Direct Walk-in,Test Ride Completed,2026-09-04,None
+LD-10404,2026-09-03,Hemal Chad,7f9dfb455b6c4e57,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-09-08,None
+LD-10405,2026-09-03,Maanav De,8633d66aea706019,Bangalore,Marathahalli,Meta Ads,Test Ride Completed,2026-09-11,None
+LD-10406,2026-09-03,Bhanumati Krishnan,9516900e91d21cda,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-09-08,None
+LD-10407,2026-09-05,Mekhala Basak,05908a082af3bd4f,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-09-10,None
+LD-10408,2026-09-06,Ekanta Soni,4f8fb106317c9f42,Bangalore,Yelahanka,Website,Drop-off,2026-09-10,Range Anxiety
+LD-10409,2026-09-06,Faqid Goel,02ff79b1dce0aa30,Bangalore,Marathahalli,Meta Ads,Drop-off,,Range Anxiety
+LD-10410,2026-09-06,Yachana Mahajan,125b1c532857320b,Hyderabad,Kukatpally,Meta Ads,Test Ride Completed,2026-09-12,None
+LD-10411,2026-09-06,Chakradev Kari,d3783aadaa51eae7,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-09-10,None
+LD-10412,2026-09-07,Charan Mani,d15d213c0147c572,Chennai,Anna Nagar,Direct Walk-in,Test Ride Completed,2026-09-13,None
+LD-10413,2026-09-07,Kevin Palla,39117e2c65df5f7d,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-09-14,None
+LD-10414,2026-09-07,Lila Prakash,55de43f891f5ce01,Bangalore,Yelahanka,Google Search,Drop-off,,Range Anxiety
+LD-10415,2026-09-07,Kevin Solanki,d2387ac25c07912e,Bangalore,Marathahalli,Google Search,Drop-off,2026-09-18,High Delivery TAT
+LD-10416,2026-09-07,Vrinda Khosla,c41340492a942e5a,Bangalore,Marathahalli,Website,Drop-off,2026-09-14,High Delivery TAT
+LD-10417,2026-09-07,Hardik Nayak,24f5e7f7ea6b2b72,Hyderabad,Banjara Hills,Direct Walk-in,Drop-off,2026-09-14,Price/Financing
+LD-10418,2026-09-07,Oni Virk,26db93a530d942ca,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-09-14,None
+LD-10419,2026-09-07,Urvashi Ray,90d8245750bd0b06,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-09-11,None
+LD-10420,2026-09-08,Farhan Chada,a4c53465f36bfec0,Hyderabad,Kukatpally,Website,Drop-off,2026-09-11,High Delivery TAT
+LD-10421,2026-09-09,Anamika Kanda,2815aac3cddbf88a,Chennai,OMR,Direct Walk-in,Drop-off,2026-09-13,Competitor Purchase
+LD-10422,2026-09-09,Ekta Gopal,938ec802a622dac7,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-09-11,None
+LD-10423,2026-09-09,Harini Choudhury,4e152b3250e27258,Hyderabad,Banjara Hills,Website,Drop-off,2026-09-14,Range Anxiety
+LD-10424,2026-09-09,Daksh Karnik,af087bc5f21ae2ff,Hyderabad,Gachibowli,Meta Ads,Test Ride Completed,2026-09-13,None
+LD-10425,2026-09-10,Samesh Biswas,9bb3d73b76e7d375,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-09-13,None
+LD-10426,2026-09-10,Krishna Bhatnagar,10566bbf93686963,Hyderabad,Gachibowli,Google Search,Enquiry,,None
+LD-10427,2026-09-11,Mitesh Tara,a6f442aacf21f5e6,Hyderabad,Gachibowli,Meta Ads,Enquiry,,None
+LD-10428,2026-09-11,Kavya Sankar,0652c2dfa36c2f7f,Hyderabad,Kukatpally,Meta Ads,Drop-off,2026-09-18,Price/Financing
+LD-10429,2026-09-11,Joshua Barman,37575228f2c61a36,Bangalore,Marathahalli,Meta Ads,Drop-off,2026-09-25,High Delivery TAT
+LD-10430,2026-09-11,Gagan Sami,1243b85e6236c547,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-09-18,None
+LD-10431,2026-09-12,Chakrika Chaudhuri,5c0d8b632cefe9e5,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-09-14,None
+LD-10432,2026-09-12,Atharv Chand,426a8d0a3d53caa1,Bangalore,Rajajinagar,Google Search,Test Ride Completed,2026-09-16,None
+LD-10433,2026-09-12,Ikbal Kothari,fa565dddde15d271,Chennai,OMR,Google Search,Test Ride Completed,2026-09-13,None
+LD-10434,2026-09-12,Janya Baral,45c3d93ece0cbd65,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-09-19,None
+LD-10435,2026-09-12,Siya Thakur,fed292833b9ffb8c,Hyderabad,Kukatpally,Direct Walk-in,Test Ride Completed,2026-09-13,None
+LD-10436,2026-09-13,Girik Menon,6cfc02ee7d2ba915,Bangalore,HSR Layout,Website,Test Ride Completed,2026-09-16,None
+LD-10437,2026-09-14,Faqid Dhaliwal,b184b1b72b5fde4f,Bangalore,Yelahanka,Website,Enquiry,,None
+LD-10438,2026-09-14,Advika Jayaraman,e93e8046c2850750,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-09-16,None
+LD-10439,2026-09-14,Anjali Sengupta,175ed511cefb181f,Bangalore,Rajajinagar,Meta Ads,Test Ride Completed,2026-09-20,None
+LD-10440,2026-09-14,Yashica Cherian,9b0db54f7e48f984,Hyderabad,Banjara Hills,Google Search,Test Ride Completed,2026-09-21,None
+LD-10441,2026-09-14,Geetika Raghavan,120ad17a16c51c66,Bangalore,Marathahalli,Direct Walk-in,Test Ride Scheduled,2026-09-21,None
+LD-10442,2026-09-14,Ekavir Varkey,7fd200a6e1f31693,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-09-21,None
+LD-10443,2026-09-15,Tara Balasubramanian,d863f15b1d685ee9,Bangalore,HSR Layout,Google Search,Test Ride Completed,2026-09-20,None
+LD-10444,2026-09-15,Devansh Rajan,b3fcd21fd120858a,Chennai,Velachery,Meta Ads,Test Ride Completed,2026-09-20,None
+LD-10445,2026-09-15,Triya Gopal,81a8ded39ab4c4a0,Bangalore,Yelahanka,Meta Ads,Test Ride Scheduled,2026-09-22,None
+LD-10446,2026-09-15,Manthan Lata,2e9273cf8d38230e,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-09-16,None
+LD-10447,2026-09-15,Yashvi Hari,f2ede481d803a9cc,Bangalore,Marathahalli,Meta Ads,Test Ride Scheduled,2026-09-20,None
+LD-10448,2026-09-16,William Saini,6694996428bbe5e2,Chennai,Velachery,Direct Walk-in,Test Ride Completed,2026-09-23,None
+LD-10449,2026-09-16,Ishwar Kamdar,3f1044d8e3ac0cea,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-09-20,None
+LD-10450,2026-09-16,Jhalak Parmer,acb4352fda269470,Bangalore,Rajajinagar,Website,Drop-off,,High Delivery TAT
+LD-10451,2026-09-16,Indali Divan,85778c016b2bb37e,Hyderabad,Gachibowli,Google Search,Test Ride Completed,2026-09-23,None
+LD-10452,2026-09-16,Zashil Ben,2c7be6e5cbe3f82f,Bangalore,Marathahalli,Google Search,Drop-off,2026-09-25,Price/Financing
+LD-10453,2026-09-16,Gauri Bumb,1cd991b13c39bf32,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-09-17,None
+LD-10454,2026-09-16,Yash Pingle,8eccbd55d2f94b51,Bangalore,Marathahalli,Website,Test Ride Completed,2026-09-28,None
+LD-10455,2026-09-17,Darpan Narayan,aaf93fb0d8bcfac2,Bangalore,Yelahanka,Website,Test Ride Completed,2026-09-21,None
+LD-10456,2026-09-17,Jatin Sha,06b9322ab763fe3e,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-09-21,None
+LD-10457,2026-09-17,Nidhi Kohli,c38f1f5ac7913591,Chennai,Velachery,Website,Test Ride Completed,2026-09-24,None
+LD-10458,2026-09-18,Yashodhara Mahajan,4ed22b7209c09a80,Chennai,OMR,Meta Ads,Enquiry,,None
+LD-10459,2026-09-18,Wriddhish Ghose,f4568b4d69af9876,Bangalore,Marathahalli,Website,Test Ride Scheduled,2026-09-24,None
+LD-10460,2026-09-18,Udant Dewan,b4279126fed9f881,Hyderabad,Gachibowli,Direct Walk-in,Test Ride Completed,2026-09-20,None
+LD-10461,2026-09-18,Vasudha Sodhi,5cfef77b6de015af,Bangalore,Marathahalli,Google Search,Enquiry,,None
+LD-10462,2026-09-18,Harish Hari,7807ce2f562abb0e,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-09-21,None
+LD-10463,2026-09-18,Vedika Handa,4f535c7c554c667a,Chennai,Velachery,Website,Test Ride Completed,2026-09-20,None
+LD-10464,2026-09-18,Raghav Vasa,3341724336a6609a,Bangalore,Rajajinagar,Google Search,Drop-off,2026-09-25,Price/Financing
+LD-10465,2026-09-19,Karan Mital,fb8157298a164fcf,Bangalore,HSR Layout,Meta Ads,Test Ride Completed,2026-09-22,None
+LD-10466,2026-09-19,Daksha Mangat,2a64a831171d30ef,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-09-23,None
+LD-10467,2026-09-19,Sanaya Dutt,d395afa55f3978c5,Chennai,OMR,Google Search,Test Ride Completed,2026-09-26,None
+LD-10468,2026-09-19,Ekavir Bhargava,32d0ff89a66acb11,Chennai,OMR,Google Search,Test Ride Completed,2026-09-22,None
+LD-10469,2026-09-20,Tripti Yadav,c0f25751b529cb45,Chennai,OMR,Meta Ads,Test Ride Completed,2026-09-25,None
+LD-10470,2026-09-20,Pranav Lanka,07455ec6c9cc5032,Hyderabad,Banjara Hills,Meta Ads,Drop-off,,Competitor Purchase
+LD-10471,2026-09-21,Baghyawati Kade,1272219602617573,Hyderabad,Kukatpally,Meta Ads,Drop-off,,Range Anxiety
+LD-10472,2026-09-21,Saumya Ahluwalia,c7d15c5da8ec154a,Hyderabad,Gachibowli,Meta Ads,Test Ride Scheduled,2026-09-26,None
+LD-10473,2026-09-21,Devika Nair,f299f2cc40c7012f,Chennai,OMR,Meta Ads,Drop-off,2026-09-28,Competitor Purchase
+LD-10474,2026-09-22,Saanvi Thaman,c68195e8c7f0f55f,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-09-27,None
+LD-10475,2026-09-22,Sudiksha Madan,672c5ad6fe89ac67,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-09-25,None
+LD-10476,2026-09-22,Shivansh Krish,ea6e294673397432,Chennai,OMR,Meta Ads,Test Ride Completed,2026-09-26,None
+LD-10477,2026-09-22,Dhruv Rattan,d9fb32deee31f5a4,Hyderabad,Banjara Hills,Website,Test Ride Completed,2026-09-29,None
+LD-10478,2026-09-22,Priya Rastogi,bc338f8686a9bd23,Hyderabad,Kukatpally,Meta Ads,Drop-off,2026-09-23,Range Anxiety
+LD-10479,2026-09-22,Lipika Setty,de99a25522c779df,Bangalore,HSR Layout,Direct Walk-in,Test Ride Completed,2026-09-23,None
+LD-10480,2026-09-23,Nilima Dada,2d0eb6a6f674a853,Bangalore,Marathahalli,Website,Test Ride Scheduled,2026-10-02,None
+LD-10481,2026-09-23,Gautam Merchant,026559d91b662211,Bangalore,Yelahanka,Meta Ads,Test Ride Scheduled,2026-10-01,None
+LD-10482,2026-09-23,Adweta Raj,9d43839f0bca1eb7,Hyderabad,Gachibowli,Meta Ads,Enquiry,,None
+LD-10483,2026-09-24,Veda Malhotra,e3351b0fbcfdb793,Hyderabad,Banjara Hills,Meta Ads,Test Ride Completed,2026-09-26,None
+LD-10484,2026-09-24,Nirja Pandya,56263893b57af727,Bangalore,Marathahalli,Google Search,Drop-off,2026-10-08,High Delivery TAT
+LD-10485,2026-09-25,Wriddhish Bhardwaj,1e06773530cc66e7,Bangalore,Yelahanka,Website,Enquiry,,None
+LD-10486,2026-09-25,Gayathri Deep,cca5685bb20218e7,Bangalore,Yelahanka,Meta Ads,Test Ride Completed,2026-09-30,None
+LD-10487,2026-09-25,Theodore Devi,6d55469c96b64daa,Chennai,Anna Nagar,Website,Test Ride Completed,2026-09-26,None
+LD-10488,2026-09-25,Ranbir Khare,d72c4b6a304f1cab,Hyderabad,Banjara Hills,Meta Ads,Drop-off,,Price/Financing
+LD-10489,2026-09-26,Dominic Kakar,3f591dc80edc6cb2,Hyderabad,Gachibowli,Website,Test Ride Completed,2026-09-28,None
+LD-10490,2026-09-26,Idika Walia,eb135de308c90ee3,Hyderabad,Banjara Hills,Direct Walk-in,Test Ride Completed,2026-09-27,None
+LD-10491,2026-09-26,Zayyan Sridhar,c4bc3ca7b8596567,Bangalore,Yelahanka,Google Search,Enquiry,,None
+LD-10492,2026-09-27,Tara Chaudhry,886596f5b5930a7d,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-09-30,None
+LD-10493,2026-09-27,Siddharth Zacharia,6a36f122e9cd00d3,Bangalore,Yelahanka,Direct Walk-in,Enquiry,,None
+LD-10494,2026-09-27,Vivaan Lalla,9a1a46c59e7aa5d8,Bangalore,Marathahalli,Direct Walk-in,Test Ride Completed,2026-10-03,None
+LD-10495,2026-09-27,Charita Tripathi,b3ed7193093c47f4,Chennai,Anna Nagar,Direct Walk-in,Test Ride Completed,2026-09-30,None
+LD-10496,2026-09-27,Maanas Manne,fb4e40f3fa1b4d32,Bangalore,Rajajinagar,Direct Walk-in,Test Ride Completed,2026-09-30,None
+LD-10497,2026-09-28,Widisha Dhar,a995f9b4e0a45ffb,Bangalore,Yelahanka,Google Search,Test Ride Completed,2026-09-29,None
+LD-10498,2026-09-29,Jagdish Amble,ea21151dd26b2697,Chennai,Anna Nagar,Direct Walk-in,Drop-off,2026-10-02,Range Anxiety
+LD-10499,2026-09-29,Nimrat Dubey,36a2712a401fc160,Chennai,OMR,Google Search,Drop-off,2026-10-01,Range Anxiety
+LD-10500,2026-09-29,Gavin Batta,ad4ade8af6617c57,Bangalore,Yelahanka,Direct Walk-in,Test Ride Completed,2026-10-06,None
